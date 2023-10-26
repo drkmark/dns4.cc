@@ -1,5 +1,5 @@
 # dnscrypt.one
-so far knowledge base of public dnssec capable non-blocking non-logging and non-filtered anonymized DNScrypt servers and relays provided by dnscrypt.one
+so far knowledge base of public dnssec capable non-blocking non-logging and non-filtered anonymized DNScrypt servers and relays provided by dnscrypt.one, more about project at https://dnscrypt.one.
 
 server list as of 10.23.2023:
 
