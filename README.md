@@ -1,9 +1,13 @@
 # dnscrypt.one
 so far knowledge base of public dnssec capable non-blocking non-logging and non-filtered anonymized DNScrypt servers and relays provided by dnscrypt.one, more about project at https://dnscrypt.one.
 
+please, feel free to test and use as much as you can, wanna see some traffic as i'm quite curious about performance on these cheap servers and simple code. 
+
 server list as of 10.23.2023:
 
 1. **dnscrypt.one-sk-ipv4** (ipv4 only, based in Slovakia, hosted by crew.sk)
+
+
 
 DNS Stamp:
 ```
