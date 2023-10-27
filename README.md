@@ -37,7 +37,7 @@ DNS Stamp for Anonymized DNS relaying:
 sdns://gRIxNzMuMjQ5LjIwOC44NTo0NDM
 ```
  
-### 3. **dnscrypt.one-us-ca-ipv4**
+### 3. **dnscrypt.one-us-ca-ipv6**
 
 
 DNS Stamp:
@@ -64,7 +64,7 @@ DNS stamp for anonymized DNS relaying:
 sdns://gRA2NC40NC4xNTguMjE6NDQz
 ```
 
-### 5. **dnscrypt.one-us-tx-ipv4**
+### 5. **dnscrypt.one-us-tx-ipv6**
 (based in Dallas, Texas, hosted by GreenCloud)
 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
