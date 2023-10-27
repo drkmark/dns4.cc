@@ -1,13 +1,17 @@
 # dnscrypt.one
 so far knowledge base of public dnssec capable non-blocking non-logging and non-filtered anonymized DNScrypt servers and relays provided by dnscrypt.one, more about project at https://dnscrypt.one.
 
-please, feel free to test and use as much as you can, wanna see some traffic as i'm quite curious about performance on these cheap servers and simple code. 
+**********************************************************************************************************************************
+please, feel free to test and use as much as you can, wanna see some traffic as i'm quite curious about performance on these cheap servers and simple code.
+**********************************************************************************************************************************
 
-server list as of 10.23.2023:
+<p align="center">
+server list as of 10.27.2023
+</p>
 
-1. **dnscrypt.one-sk-ipv4** (ipv4 only, based in Slovakia, hosted by crew.sk)
-
-
+### 1. **dnscrypt.one-sk-ipv4**
+(ipv4 only, based in Slovakia, hosted by crew.sk)
+1x vCPU AMD Ryzen 9 3900X, 550MB RAM, 1Gbps LAN
 
 DNS Stamp:
 ```
@@ -19,10 +23,12 @@ DNS Stamp for Anonymized DNS relaying:
 sdns://gRExODUuOTEuMTE2LjkyOjQ0Mw
 ```
 
-2. **dnscrypt.one-us-ca-** (ipv4 and ipv6*, based in San Jose, California, hosted by GreenCloud)
+### 2. **dnscrypt.one-us-ca-**
+(ipv4 and ipv6*, based in San Jose, California, hosted by GreenCloud)
+2x vCPU AMD EPYC 7742, 2048MB RAM, 10Gbps LAN
 
-- **ipv4**:
-DNS Stamp:
+- ### **ipv4**:
+- DNS Stamp:
 ```
 sdns://AQcAAAAAAAAAEjE3My4yNDkuMjA4Ljg1OjQ0MyAYYOYkEcDf66RqnJO6CoP6C-g6ZIWDPp43m2CQ7fx8CCIyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQub25lLXVzLWNh
 ```
@@ -32,7 +38,7 @@ DNS Stamp for Anonymized DNS relaying:
 sdns://gRIxNzMuMjQ5LjIwOC44NTo0NDM
 ```
  
-- **ipv6**:
+- ### **ipv6**:
 
 DNS Stamp:
 ```
@@ -47,5 +53,7 @@ sdns://gRlbMjYwNzoxZTQwOjA6MTVmZjo6OV06NDQz
 * put "ipv4" or "ipv6" at the end of server name, i.e. "dnscrypt.one-us-ca-ipv6"
 
 
-servers in **TX/US** and **UK** are comming soon!
+
+
+servers in **TX/US**, **UK** and **CZE** are comming soon!
 
