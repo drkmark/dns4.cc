@@ -24,7 +24,7 @@ sdns://gRExODUuOTEuMTE2LjkyOjQ0Mw
 ```
 
 ### 2. **dnscrypt.one-us-ca-ipv4**
-(ipv4 and ipv6*, based in San Jose, California, hosted by GreenCloud)
+(based in San Jose, California, hosted by GreenCloud)
 2x vCPU AMD EPYC 7742, 2048MB RAM, 10Gbps LAN
 
 DNS Stamp:
