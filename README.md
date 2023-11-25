@@ -1,9 +1,9 @@
-# anon4.net
-so far knowledge base of public dnssec capable non-blocking non-logging and non-filtered anonymized DNScrypt servers and relays provided by anon4.net, more about project at tmp site https://dnscrypt.one.
+# 4anon.click
+so far knowledge base of public dnssec capable non-blocking non-logging and non-filtered anonymized DNScrypt servers and relays provided by 4anon.click, more about project at tmp site https://dnscrypt.one.
 
 **!!! BEWARE !!!**
 
-I've changed name of the project to **anon4.net**!
+I've changed name of the project to **4anon.click**!
 
 
 obviously, with this significant change server/relays hostnames have been changed as well. don't ask me why, because it's like that and it's final now. the webpage will be also redirected to the new one, better, more sexy and juicy for sure. just after I'll finish it...
@@ -22,7 +22,7 @@ server list as of <b>11/24/2023</b></br>!!! servers and anonymization relays in 
 <br>
 </br>
 
-### 1. **anon4.net-sk-ipv4**
+### 1. **4anon.click-sk-ipv4**
 (ipv4 only, based in Slovakia, hosted by crew.sk)
 1x vCPU AMD Ryzen 9 3900X, 550MB RAM, 1Gbps LAN
 
@@ -36,7 +36,7 @@ DNS Stamp for Anonymized DNS relaying:
 sdns://gRExODUuOTEuMTE2LjkyOjQ0Mw
 ```
 
-### 2. **anon4.net-us-ca-ipv4**
+### 2. **4anon.click-us-ca-ipv4**
 (based in San Jose, California, hosted by GreenCloud)
 2x vCPU AMD EPYC 7742, 2048MB RAM, 10Gbps LAN
 
@@ -50,7 +50,7 @@ DNS Stamp for Anonymized DNS relaying:
 sdns://gRIxNzMuMjQ5LjIwOC44NTo0NDM
 ```
  
-### 3. **anon4.net-us-ca-ipv6**
+### 3. **4anon.click-us-ca-ipv6**
 
 
 DNS Stamp:
@@ -63,7 +63,7 @@ DNS Stamp for Anonymized DNS relaying:
 sdns://gRlbMjYwNzoxZTQwOjA6MTVmZjo6Ml06NDQz
 ```
 
-### 4. **anon4.net-us-tx-ipv4**
+### 4. **4anon.click-us-tx-ipv4**
 (based in Dallas, Texas, hosted by GreenCloud)
 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
@@ -77,7 +77,7 @@ DNS stamp for anonymized DNS relaying:
 sdns://gRA2NC40NC4xNTguMjE6NDQz
 ```
 
-### 5. **anon4.net-us-tx-ipv6**
+### 5. **4anon.click-us-tx-ipv6**
 (based in Dallas, Texas, hosted by GreenCloud)
 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
