@@ -16,7 +16,7 @@ please, feel free to test and use as much as you can, wanna see some traffic as 
 **********************************************************************************************************************************
 
 <p align="center">
-server list as of <b>11/24/2023</b></br>!!! servers and anonymization relays in <b>UK, GER, CZE, Vietnam & Romania</b> are comming soon !!!
+server list as of <b>11/29/2023</b></br>!!! servers and anonymization relays in <b>CZE, Vietnam & Romania</b> are comming soon !!!
 </p>
 
 <br>
@@ -28,7 +28,7 @@ server list as of <b>11/24/2023</b></br>!!! servers and anonymization relays in 
 
 DNS Stamp:
 ```
- sdns://AQcAAAAAAAAAETE4NS45MS4xMTYuOTI6NDQzIGO4EPAOu2zDAWfgIQ3eEg2HB4pH7uTnJpNz71Ma0K7FITIuZG5zY3J5cHQtY2VydC5hbm9uNC5uZXQtc2staXB2NA
+sdns://AQcAAAAAAAAAETE4NS45MS4xMTYuOTI6NDQzIKpqYu2Jk2Za64F6jwPG0Pa5EZpm_BeLpVmB3KJZzDiCIzIuZG5zY3J5cHQtY2VydC40YW5vbi5jbGljay1zay1pcHY0
 ```
  
 DNS Stamp for Anonymized DNS relaying:
@@ -42,7 +42,7 @@ sdns://gRExODUuOTEuMTE2LjkyOjQ0Mw
 
 DNS Stamp:
 ```
-sdns://AQcAAAAAAAAAEjE3My4yNDkuMjA4Ljg1OjQ0MyBnimJ9xTSUhkZa2hOp7Y34RjH_6TX47AEju_nnwE4lBB8yLmRuc2NyeXB0LWNlcnQuYW5vbjQubmV0LXVzLWNh
+sdns://AQcAAAAAAAAAEjE3My4yNDkuMjA4Ljg1OjQ0MyCK0CM_voxojHk5x7tH-aSOGU88ZRvu2SzHGprZcBWNKCEyLmRuc2NyeXB0LWNlcnQuNGFub24uY2xpY2stdXMtY2E
 ```
 
 DNS Stamp for Anonymized DNS relaying:
@@ -55,7 +55,7 @@ sdns://gRIxNzMuMjQ5LjIwOC44NTo0NDM
 
 DNS Stamp:
 ```
-sdns://AQcAAAAAAAAAGVsyNjA3OjFlNDA6MDoxNWZmOjoyXTo0NDMgZ4pifcU0lIZGWtoTqe2N-EYx_-k1-OwBI7v558BOJQQfMi5kbnNjcnlwdC1jZXJ0LmFub240Lm5ldC11cy1jYQ
+sdns://AQcAAAAAAAAAGVsyNjA3OjFlNDA6MDoxNWZmOjoyXTo0NDMgitAjP76MaIx5Oce7R_mkjhlPPGUb7tksxxqa2XAVjSghMi5kbnNjcnlwdC1jZXJ0LjRhbm9uLmNsaWNrLXVzLWNh
 ```
 
 DNS Stamp for Anonymized DNS relaying:
@@ -69,7 +69,7 @@ sdns://gRlbMjYwNzoxZTQwOjA6MTVmZjo6Ml06NDQz
 
 DNS stamp
 ```
-sdns://AQcAAAAAAAAAEDY0LjQ0LjE1OC4yMTo0NDMgtLPfqhJqR02FPXMoTox5zAfLEECZUI5MVmYTKoBBauIfMi5kbnNjcnlwdC1jZXJ0LmFub240Lm5ldC11cy10eA
+sdns://AQcAAAAAAAAAEDY0LjQ0LjE1OC4yMTo0NDMgNJcMsxaiwMwQc-p3H3Ob4-mPBfz7NU1KBU4xvAVXoLIhMi5kbnNjcnlwdC1jZXJ0LjRhbm9uLmNsaWNrLXVzLXR4
 ```
 
 DNS stamp for anonymized DNS relaying:
@@ -83,7 +83,7 @@ sdns://gRA2NC40NC4xNTguMjE6NDQz
 
 DNS stamp
 ```
-sdns://AQcAAAAAAAAAGVsyNjAyOmZmYzg6NDphMWM5OjozXTo0NDMgtLPfqhJqR02FPXMoTox5zAfLEECZUI5MVmYTKoBBauIfMi5kbnNjcnlwdC1jZXJ0LmFub240Lm5ldC11cy10eA
+sdns://AQcAAAAAAAAAGVsyNjAyOmZmYzg6NDphMWM5OjozXTo0NDMgNJcMsxaiwMwQc-p3H3Ob4-mPBfz7NU1KBU4xvAVXoLIhMi5kbnNjcnlwdC1jZXJ0LjRhbm9uLmNsaWNrLXVzLXR4
 ```
 
 DNS stamp for anonymized DNS relaying:
@@ -91,7 +91,58 @@ DNS stamp for anonymized DNS relaying:
 sdns://gRlbMjYwMjpmZmM4OjQ6YTFjOTo6M106NDQz
 ```
 
+### 6. **4anon.click-uk-ipv4**
+(based in Coventry, UK, hosted by GreenCloud)
+1x vCPU AMD EPYC 7502P, 2048MB RAM, 10Gbps LAN
 
+DNS stamp
+```
+sdns://AQcAAAAAAAAAEDk0LjIyOS43Mi4zNDo0NDMgo26GZI704cmrVwSdVh3JGHZ6PE8mXTDy-vRofdD2FngeMi5kbnNjcnlwdC1jZXJ0LjRhbm9uLmNsaWNrLXVr
+```
 
+DNS stamp for anonymized DNS relaying:
+```
+sdns://gRA5NC4yMjkuNzIuMzQ6NDQz
+```
 
+### 7. **4anon.click-uk-ipv6**
+(based in Coventry, UK, hosted by GreenCloud)
+1x vCPU AMD EPYC 7502P, 2048MB RAM, 10Gbps LAN
 
+DNS stamp
+```
+sdns://AQcAAAAAAAAAGFsyYTBjOmI4NDA6MjoyMzc6OjRdOjQ0MyCjboZkjvThyatXBJ1WHckYdno8TyZdMPL69Gh90PYWeB4yLmRuc2NyeXB0LWNlcnQuNGFub24uY2xpY2stdWs
+```
+
+DNS stamp for anonymized DNS relaying:
+```
+sdns://gRhbMmEwYzpiODQwOjI6MjM3Ojo0XTo0NDM
+```
+
+### 8. **4anon.click-de-ipv4**
+(based in Franfurt am Main, Germany, hosted by GreenCloud)
+1x vCPU AMD EPYC 7763, 2048MB RAM, 10Gbps LAN
+
+DNS stamp
+```
+sdns://AQcAAAAAAAAAETE3Mi45My4xODUuODY6NDQzIDFbefFxTpjpOVpHDBELBpA1TxI_OFV1bEMSZrxHKu_dHjIuZG5zY3J5cHQtY2VydC40YW5vbi5jbGljay1kZQ
+```
+
+DNS stamp for anonymized DNS relaying:
+```
+sdns://gRExNzIuOTMuMTg1Ljg2OjQ0Mw
+```
+
+### 9. **4anon.click-de-ipv6**
+(based in Franfurt am Main, Germany, hosted by GreenCloud)
+1x vCPU AMD EPYC 7763, 2048MB RAM, 10Gbps LAN
+
+DNS stamp
+```
+sdns://AQcAAAAAAAAAF1syYTBjOmI4NDA6MTpjNjo6NV06NDQzIDFbefFxTpjpOVpHDBELBpA1TxI_OFV1bEMSZrxHKu_dHjIuZG5zY3J5cHQtY2VydC40YW5vbi5jbGljay1kZQ
+```
+
+DNS stamp for anonymized DNS relaying:
+```
+sdns://gRdbMmEwYzpiODQwOjE6YzY6OjVdOjQ0Mw
+```
