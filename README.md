@@ -176,7 +176,7 @@ sdns://gRtbMjQwMDo2ZWEwOjA6MTIyMDo6MTA3XTo0NDM
 ```
 
 ### 12. **dns4.cc-cz-ipv6**
-(based in Budweiss, Czechia, hosted by forpsi)
+(based in Budweis, Czechia, hosted by forpsi)
 1x vCPU Intel Core Broadwell family, 1024MB RAM, 1Gbps LAN
 
 DNS stamp
