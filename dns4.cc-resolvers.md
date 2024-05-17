@@ -27,14 +27,14 @@ sdns://AQcAAAAAAAAAG1syNjA3OjFlNDA6MDoxMDVhOjoxMDJdOjQ0MyDqvpyLGb9d2_0F52cFDyCPU
 
 ## dns4.cc-us-tx-ipv4
 
-based in San Jose, California, hosted by GreenCloud 2x vCPU AMD EPYC 7742, 2048MB RAM, 10Gbps LAN
+based in Dallas, Texas, hosted by GreenCloud 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
 sdns://AQcAAAAAAAAAEDY0LjQ0LjE1OC4yMTo0NDMgAqgRSaZK3YraHurmdZ4fRkBWEI0qgGIBWHP1oT2hrG8dMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtdXMtdHg
 
 
 ## dns4.cc-us-tx-ipv6
 
-based in San Jose, California, hosted by GreenCloud 2x vCPU AMD EPYC 7742, 2048MB RAM, 10Gbps LAN
+based in Dallas, Texas, hosted by GreenCloud 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
 sdns://AQcAAAAAAAAAG1syNjAyOmZmYzg6NDphMWM5OjoxMDNdOjQ0MyACqBFJpkrditoe6uZ1nh9GQFYQjSqAYgFYc_WhPaGsbx0yLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy11cy10eA
 
