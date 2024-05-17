@@ -1,7 +1,7 @@
 # Anonymized DNSCrypt relays by dns4.cc
 
 
-more info on https://raw.githubusercontent.com/drkmark/dns4.cc/main/relays.md
+more info on https://github.com/drkmark/dns4.cc
 
 
 ## anon-dns4.cc-sk-ipv4
