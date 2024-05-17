@@ -105,13 +105,13 @@ sdns://AQcAAAAAAAAAIFsyMDAxOmRmMTo4MDE6YTAyMDo6M2IyOjEwOF06NDQzICdQMXIwpUABjfAkZ
 
 ## dns4.cc-us-ny-ipv4
 
-based in Hong Kong, China, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
+based in Buffalo, New York, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
    
 sdns://AQcAAAAAAAAAEzEwNy4xNzUuMTc5LjEwMzo0NDMgrZ1ipBVLvEU2HFdLFnplJzNkCvVud43Ev5FKQzm7aZIdMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtdXMtbnk
 
 
 ## dns4.cc-us-ny-ipv6
 
-based in Hong Kong, China, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
+based in Buffalo, New York, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
    
 sdns://AQcAAAAAAAAAG1syNjAyOmZmYzg6MjphMGQzOjoxMDldOjQ0MyCtnWKkFUu8RTYcV0sWemUnM2QK9W53jcS_kUpDObtpkh0yLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy11cy1ueQ
