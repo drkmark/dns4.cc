@@ -1,9 +1,12 @@
 # Anonymized DNSCrypt public resolvers by dns4.cc
 
 
-more info on https://github.com/drkmark/dns4.cc
+https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md
 
-o use that list, add this to the `[sources]` section of your
+
+more info on https://github.com/dns4.cc
+
+to use that list, add this to the `[sources]` section of your
 `dnscrypt-proxy.toml` configuration file:
 
     [sources.'dns4.cc-resolvers.md']
