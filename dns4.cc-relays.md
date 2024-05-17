@@ -1,6 +1,6 @@
 # Anonymized DNSCrypt relays by dns4.cc
 
-https://github.com/drkmark/dns4.cc
+https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md
 
 
 Anonymized DNS is a lightweight alternative to Tor and SOCKS proxies, dedicated to DNS traffic. They hide the client IP address to DNS resolvers, providing anonymity in addition to confidentiality and integrity.
@@ -8,6 +8,7 @@ Anonymized DNS is a lightweight alternative to Tor and SOCKS proxies, dedicated 
 DNS Anonymization is only compatible with servers supporting the DNSCrypt protocol.
 
 more info about Anonymized DNSCrypt could be found on https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
+
 
 
 
