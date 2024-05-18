@@ -9,17 +9,17 @@ our servers are located on the northern hemisphere and are available to all
 
 locations as of May 2024:
 
-US. 
+### US
  - San Jose, CA
  - Dallas, TX
  - Buffalo, NY
 
-Europe.
+### Europe
  - Coventry, UK
  - Frankfurt Am Main, Germany
  - Budweis, Czechia
  - Bratislava, Slovakia
 
-Asia.
+### Asia/Pacific
  - Ho Chi Minh City, Vietnam
  - Hong Kong, China
