@@ -4,7 +4,7 @@ operates free independent "network" of 9 DNSCrypt servers spread around the glog
 all our servers are **public, dnssec capable, non-blocking, non-logging and non-filtered** and work like DNSCrypt public resolvers and/or anonymization relays. 
 
 
-to start using our network simply add the lists of dns4.cc servers and anonymization relays into your `dnscrypt-proxy.toml` config, restart the service and enjoy. (and yes, we bravely expect you've installed dnscrypt-proxy on your endpoint already. :wink:)
+to start using our network simply add the lists of dns4.cc servers and anonymization relays into your `dnscrypt-proxy.toml` config, restart the service and enjoy. > and yes, we bravely expect you've installed dnscrypt-proxy on your endpoint already. :wink:
 
 **if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return here when done. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/)**
 
@@ -48,7 +48,7 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
         ]
 ```
 btw. it isn't needed to be "superanonymized" via more than 1-2 relays as latency would inceases dramaticaly.
-just check and play with routes to test latency i.e. with DNS leak script from [macvk](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh).
+just check and play with routes to test latency i.e. with DNS leak script from [@macvk](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh).
 
 
 **read example-dnscrypt-proxy.toml for proper settings!**
