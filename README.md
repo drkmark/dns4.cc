@@ -12,8 +12,7 @@ in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you shou
 
 ```
     [sources.'dns4.cc-resolvers.md']
-        urls = ['
-        \']
+        urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md']
         cache_file = 'dns4.cc-resolvers.md'
         minisign_key = 'RWQmCQci7XkPir2RcxzcMLtvRJvpxrkKyvovMky2Nn6bWzsGWchGOTS9'
         refresh_delay = 72
