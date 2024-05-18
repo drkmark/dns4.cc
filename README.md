@@ -1,8 +1,9 @@
 # dns4.cc
 *crew operates free independent "network" of 9 DNSCrypt servers spread around the gloge to keep your browsing safe and secure.*
 
-we personally strongly believe in freedom and essential human right to stay anonymized if you'd like to.
-respecting that fact, all dns4.cc DNS servers & relays were/are/will be:
+Personally, we strongly believe in freedom and the fundamental human right to remain anonymous if you wish.
+
+Respecting this fact, all dns4.cc resolvers & anonymizing relays were, are, and always will be:
 
 - **PUBLIC & FREE TO USE**
 - **SECURED BY DNSSEC**
@@ -10,26 +11,26 @@ respecting that fact, all dns4.cc DNS servers & relays were/are/will be:
 - **NON-LOGGING**
 - **NON-FILTERED**
 
-4ever. all servers would be used as DNSCrypt public resolvers and/or anonymization relays. 
+All servers would be used as DNSCrypt public resolvers and/or anonymizing relays. 
 
-**how to :checkered_flag::**
+**How to :checkered_flag:**
 
-to start using our network simply add the lists of dns4.cc servers and anonymization relays into your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
+To start using our network simply add the lists of dns4.cc servers and anonymization relays to your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
 
-> right, we bravely expect you've installed dnscrypt-proxy on your endpoint already. :wink:
-> if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return here when done. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/).
+> Right, we boldly assume that you already have dnscrypt-proxy installed on your endpoint :wink:
+> If not, visit the [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and come back here when you are done. Theory and other useful info can be found at the [DNSCrypt website](https://dnscrypt.info/).
 
 
-it's easy as:
+It's easy as:
 
-1. either download dns4.cc repository as ZIP or clone dns4.cc repository to anywhere like 
+1. Either download dns4.cc repository as ZIP or clone dns4.cc repository to anywhere like 
     ```
     git https://git clone https://github.com/drkmark/dns4.cc.git
     ```
 and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-proxy/)
     
 
-2. in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you should add something like:
+2. In `[sources]` section of your `dnscrypt-proxy.toml` configuration file you should add something like:
 
     a. dns4.cc public resolvers
 
@@ -41,7 +42,7 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
         refresh_delay = 72
     ```
 
-    b. dns4.cc anonymization relays
+    b. dns4.cc anonymizing relays
 
 ```
     [sources.'dns4.cc-relays.md']
@@ -51,7 +52,7 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
         refresh_delay = 72
 ```
 
-3. in `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish):
+3. In `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish):
 
 ```    
     routes = [
@@ -60,11 +61,10 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
         .....
         ]
 ```
-btw. it isn't needed to be "superanonymized" via more than 1-2 relays as latency would inceases dramaticaly.
-just check and play with routes to test latency i.e. with [DNS leak script](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh) from [@macvk](https://github.com/macvk).
+Btw. it's not necessary to be "superanonymized" over more than 1-2 relays, as the latency would increase dramatically.
+Just check and play with routes to test the latency, e.g. with [DNS leak script](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh) from [@macvk](https://github.com/macvk).
 
-
-read "/your/dncrypt-proxy/working-directory/"`example-dnscrypt-proxy.toml` for proper settings!
+Read "/your/dncrypt-proxy/working-directory/"`example-dnscrypt-proxy.toml` for proper settings!
 
 
 - [list of dns4.cc public resolvers](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md)
