@@ -1,10 +1,10 @@
-# dns4.cc
-operates independent network of 9 DNSCrypt servers to keep your browsing safe and secure. 
+# dns4.cc crew
+operates free independent "network" of 9 DNSCrypt servers spread around the gloge to keep your browsing safe and secure. 
 
-all our servers are **public, dnssec capable, non-blocking, non-logging and non-filtered** and work like public resoivers and anonymization relays. 
+all our servers are **public, dnssec capable, non-blocking, non-logging and non-filtered** and work like DNSCrypt public resolvers and/or anonymization relays. 
 
 
-to start using our network simply add the lists of dns4.cc servers and anonymization relays into your dnscrypt-proxy.toml and enjoy. yes, we bravely expect you've installed dnscrypt-proxy already. :wink:
+to start using our network simply add the lists of dns4.cc servers and anonymization relays into your dnscrypt-proxy.toml and enjoy. yes, we bravely expect you've installed dnscrypt-proxy on your endpoint already. :wink:
 
 **if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/)**
 
@@ -53,8 +53,8 @@ btw. it isn't needed to be "superanonymized" via more than 1-2 relays as latency
 **read example-dnscrypt-proxy.toml for proper settings!**
 
 
-- [list of our DNSCrypt public resolvers](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md)
-- [list of our DNSCrypt anonymization relays](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md)
+- [list of dns4.cc public resolvers](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md)
+- [list of dns4.cc anonymization relays](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md)
 
 ********************
 
@@ -80,4 +80,4 @@ DNS servers locations as of May 2024:
 
 ...and that's all, folks. have a good time!
 
-dns4.cc team
+©2024 darkmark & dns4.cc crew
