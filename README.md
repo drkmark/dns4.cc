@@ -8,17 +8,17 @@ to start using our network simply add the lists of dns4.cc servers and anonymiza
 
 1. in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you should add something like:
 
-    1.1 dns4.cc public resolvers
+    a. dns4.cc public resolvers
 
-```
+    ```
     [sources.'dns4.cc-resolvers.md']
         urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md']
         cache_file = 'dns4.cc-resolvers.md'
         minisign_key = 'RWQmCQci7XkPir2RcxzcMLtvRJvpxrkKyvovMky2Nn6bWzsGWchGOTS9'
         refresh_delay = 72
-```
+    ```
 
-    1.2. dns4.cc anonymization relays
+    b. dns4.cc anonymization relays
 
 ```
     [sources.'dns4.cc-relays.md']
@@ -30,13 +30,13 @@ to start using our network simply add the lists of dns4.cc servers and anonymiza
 
 2. in `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish)
 
-'''
+```    
     routes = [
         { server_name='dns4.cc-us-ca-ipv4', via=['anon-dns4.cc-us-ny-ipv4'], via=['anon-dns4.cc-us-tx-ipv4'] },
         { server_name='dns4.cc-vn-ipv6', via=['anon-dns4.cc-hk-ipv6'], via=['anon-dns4.cz-ipv6'] },
         .....
         ]
-'''
+```
 
 **read example-dnscrypt-proxy.toml for proper settings!**
 
