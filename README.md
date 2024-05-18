@@ -1,5 +1,5 @@
-# dns4.cc crew
-operates free independent "network" of 9 DNSCrypt servers spread around the gloge to keep your browsing safe and secure. 
+# dns4.cc
+crew operates free independent "network" of 9 DNSCrypt servers spread around the gloge to keep your browsing safe and secure. 
 
 all our servers are **public, dnssec capable, non-blocking, non-logging and non-filtered** and work like DNSCrypt public resolvers and/or anonymization relays. 
 
