@@ -7,7 +7,7 @@ all our servers are **public, dnssec capable, non-blocking, non-logging and non-
 to start using our network simply add the lists of dns4.cc servers and anonymization relays into your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
 
 > right, we bravely expect you've installed dnscrypt-proxy on your endpoint already. :wink:
-> if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return here when done. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/)
+> if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return here when done. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/).
 
 
 1. either download dns4.cc repository as ZIP or clone dns4.cc repository to anywhere like 
@@ -52,7 +52,7 @@ btw. it isn't needed to be "superanonymized" via more than 1-2 relays as latency
 just check and play with routes to test latency i.e. with [DNS leak script](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh) from [@macvk](https://github.com/macvk).
 
 
-read `example-dnscrypt-proxy.toml` for proper settings!
+read "/your/dncrypt-proxy/working-directory/"`example-dnscrypt-proxy.toml` for proper settings!
 
 
 - [list of dns4.cc public resolvers](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md)
