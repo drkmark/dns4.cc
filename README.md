@@ -49,7 +49,7 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
         ]
 ```
 btw. it isn't needed to be "superanonymized" via more than 1-2 relays as latency would inceases dramaticaly.
-just check and play with routes to test latency i.e. with [DNS leak script](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh) from @macvk.
+just check and play with routes to test latency i.e. with [DNS leak script](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh) from [@macvk](https://github.com/macvk).
 
 
 read `example-dnscrypt-proxy.toml` for proper settings!
