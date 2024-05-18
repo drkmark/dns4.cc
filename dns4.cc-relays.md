@@ -11,8 +11,7 @@ DNS Anonymization is only compatible with servers supporting the DNSCrypt protoc
 more info about Anonymized DNSCrypt could be found on https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
-
-
+********************
 
 
 ## anon-dns4.cc-sk-ipv4
