@@ -14,7 +14,7 @@ to start using our network simply add the lists of dns4.cc servers and anonymiza
     [sources.'dns4.cc-resolvers.md']
         urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md']
         cache_file = 'dns4.cc-resolvers.md'
-        minisign_key = 'RWQmCQci7XkPir2RcxzcMLtvRJvpxrkKyvovMky2Nn6bWzsGWchGOTS9'
+        minisign_key = 'OURPUBLICMINISIGNKEYGOESHERE'
         refresh_delay = 72
     ```
 
@@ -24,7 +24,7 @@ to start using our network simply add the lists of dns4.cc servers and anonymiza
     [sources.'dns4.cc-relays.md']
         urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md']
         cache_file = 'dns4.cc-relays.md'
-        minisign_key = 'RWQmCQci7XkPir2RcxzcMLtvRJvpxrkKyvovMky2Nn6bWzsGWchGOTS9'
+        minisign_key = 'OURPUBLICMINISIGNKEYGOESHERE'
         refresh_delay = 72
 ```
 
