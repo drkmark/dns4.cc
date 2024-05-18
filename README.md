@@ -4,16 +4,26 @@ operates independent network of 9 DNSCrypt servers to keep your browsing safe an
 all our servers are **public, dnssec capable, non-blocking, non-logging and non-filtered** and work like public resoivers and anonymization relays. 
 
 
-to start using our network simply add the lists of dns4.cc servers and anonymization relays into your dnscrypt-proxy.toml and enjoy.
+to start using our network simply add the lists of dns4.cc servers and anonymization relays into your dnscrypt-proxy.toml and enjoy. yes, we bravely expect you've installed dnscrypt-proxy already. :wink:
 
-1. in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you should add something like:
+**if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/)**
+
+
+1. either download dns4.cc repository as ZIP or clone dns4.cc repository to anywhere like 
+    ```
+    git https://git clone https://github.com/drkmark/dns4.cc.git
+    ```
+and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-proxy/)
+    
+
+2. in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you should add something like:
 
     a. dns4.cc public resolvers
 
     ```
     [sources.'dns4.cc-resolvers.md']
         urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md']
-        cache_file = 'dns4.cc-resolvers.md'
+        cache_file = 'dns4.cc-resolvers.md'DNSCrypt
         minisign_key = 'OURPUBLICMINISIGNKEYGOESHERE'
         refresh_delay = 72
     ```
@@ -23,12 +33,12 @@ to start using our network simply add the lists of dns4.cc servers and anonymiza
 ```
     [sources.'dns4.cc-relays.md']
         urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md']
-        cache_file = 'dns4.cc-relays.md'
+        cache_file = 'dns4.cc-relays.md'DNSCrypt
         minisign_key = 'OURPUBLICMINISIGNKEYGOESHERE'
         refresh_delay = 72
 ```
 
-2. in `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish)
+3. in `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish)
 
 ```    
     routes = [
@@ -38,7 +48,8 @@ to start using our network simply add the lists of dns4.cc servers and anonymiza
         ]
 ```
 
-**read example-dnscrypt-proxy.toml for proper settings!**
+**read example-dnscrypt-proxy.toml for proper settings!** or 
+
 
 - [list of our DNSCrypt public resolvers](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md)
 - [list of our DNSCrypt anonymization relays](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md)
