@@ -13,6 +13,8 @@ more info about Anonymized DNSCrypt could be found on https://github.com/DNSCryp
 
 
 
+
+
 ## anon-dns4.cc-sk-ipv4
 
 sdns://gRExODUuOTEuMTE2LjkyOjQ0Mw
