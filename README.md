@@ -5,9 +5,9 @@ all our servers are **public, dnssec capable, non-blocking, non-logging and non-
 
 
 to start using our network simply add the lists of dns4.cc servers and anonymization relays into your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
-> right, we bravely expect you've installed dnscrypt-proxy on your endpoint already. :wink: 
 
-**if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return here when done. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/)**
+> right, we bravely expect you've installed dnscrypt-proxy on your endpoint already. :wink:
+> if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return here when done. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/)
 
 
 1. either download dns4.cc repository as ZIP or clone dns4.cc repository to anywhere like 
