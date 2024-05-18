@@ -114,7 +114,6 @@ based in Hong Kong, China, hosted by GreenCloud 2x vCPU Intel Xeon E5-2698 v4, 4
 sdns://AQcAAAAAAAAAIFsyMDAxOmRmMTo4MDE6YTAyMDo6M2IyOjEwOF06NDQzICdQMXIwpUABjfAkZZpXTMIZc_tBeKwUSKA-6uVRKBCNGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWhr
 
 
-
 ## dns4.cc-us-ny-ipv4
 
 based in Buffalo, New York, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
