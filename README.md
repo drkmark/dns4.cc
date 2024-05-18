@@ -1,7 +1,15 @@
 # dns4.cc
 crew operates free independent "network" of 9 DNSCrypt servers spread around the gloge to keep your browsing safe and secure. 
 
-all our servers are **public, dnssec capable, non-blocking, non-logging and non-filtered** and work like DNSCrypt public resolvers and/or anonymization relays. 
+all our servers are:
+
+- **PUBLIC**
+- **DNSSEC CAPABLE**
+- **NON-BLOCKING**
+    - **LOGGING**
+    - **FILTERED**
+
+and work like DNSCrypt public resolvers and/or anonymization relays. 
 
 
 to start using our network simply add the lists of dns4.cc servers and anonymization relays into your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
