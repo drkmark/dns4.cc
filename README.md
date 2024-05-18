@@ -52,7 +52,7 @@ btw. it isn't needed to be "superanonymized" via more than 1-2 relays as latency
 just check and play with routes to test latency i.e. with [DNS leak script](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh) from @macvk.
 
 
-**read example-dnscrypt-proxy.toml for proper settings!**
+read `example-dnscrypt-proxy.toml` for proper settings!
 
 
 - [list of dns4.cc public resolvers](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md)
