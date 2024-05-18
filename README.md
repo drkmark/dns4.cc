@@ -38,7 +38,7 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
         refresh_delay = 72
 ```
 
-3. in `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish)
+3. in `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish):
 
 ```    
     routes = [
@@ -47,8 +47,10 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
         .....
         ]
 ```
+btw. it isn't needed to be "superanonymized" via more than 1-2 relays as latency would inceases dramaticaly, just check and play with them to test latency with DNS leak script from [macvk](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh).
 
-**read example-dnscrypt-proxy.toml for proper settings!** or 
+
+**read example-dnscrypt-proxy.toml for proper settings!**
 
 
 - [list of our DNSCrypt public resolvers](https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md)
