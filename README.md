@@ -6,9 +6,9 @@ all our servers are **public, dnssec capable, non-blocking, non-logging and non-
 
 to start using our network simply add the lists of dns4.cc servers and anonymization relays into your dnscrypt-proxy.toml and enjoy.
 
-in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you should add something like:
+1. in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you should add something like:
 
-1. dns4.cc public resolvers
+    1.1 dns4.cc public resolvers
 
 ```
     [sources.'dns4.cc-resolvers.md']
@@ -18,7 +18,7 @@ in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you shou
         refresh_delay = 72
 ```
 
-2. dns4.cc anonymization relays
+    1.2. dns4.cc anonymization relays
 
 ```
     [sources.'dns4.cc-relays.md']
@@ -28,13 +28,15 @@ in `[sources]` section of your `dnscrypt-proxy.toml` configuration file you shou
         refresh_delay = 72
 ```
 
-in `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish)
+2. in `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish)
 
+'''
     routes = [
         { server_name='dns4.cc-us-ca-ipv4', via=['anon-dns4.cc-us-ny-ipv4'], via=['anon-dns4.cc-us-tx-ipv4'] },
         { server_name='dns4.cc-vn-ipv6', via=['anon-dns4.cc-hk-ipv6'], via=['anon-dns4.cz-ipv6'] },
         .....
         ]
+'''
 
 **read example-dnscrypt-proxy.toml for proper settings!**
 
