@@ -1,7 +1,7 @@
 # dns4.cc
-proudly presents independent network of public dnssec capable non-blocking non-logging and non-filtered anonymized DNScrypt servers and anonymization relays, more about project at "TBD".
+operates independent network of 9 DNSCrypt servers to keep your browsing safe and secure. 
 
-we operate 9 DNSCrypt servers spread around the globe to keep your browsing safe and secure.
+all our servers are **public, dnssec capable, non-blocking, non-logging and non-filtered with anonymization support**. 
 
 our servers are located on the northern hemisphere and are available to all
 
