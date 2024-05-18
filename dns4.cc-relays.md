@@ -1,4 +1,4 @@
-# Anonymized DNSCrypt relays by dns4.cc
+# dns4.cc DNSCrypt anonymization relays
 
 
 https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md
