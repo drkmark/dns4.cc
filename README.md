@@ -18,7 +18,7 @@ All servers would be used as DNSCrypt public resolvers and/or anonymizing relays
 
 To start using our network simply add the lists of dns4.cc servers and anonymization relays to your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
 
-> Right, we boldly assume that you already have dnscrypt-proxy installed on your endpoint :wink:
+> Right, we boldly assume that you already have dnscrypt-proxy installed on your endpoint :computer::iphone:  :wink:.
 > If not, visit the [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and come back here when you are done. Theory and other useful info can be found at the [DNSCrypt website](https://dnscrypt.info/).
 
 
