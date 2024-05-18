@@ -1,23 +1,26 @@
 # dns4.cc
-crew operates free independent "network" of 9 DNSCrypt servers spread around the gloge to keep your browsing safe and secure. 
+*crew operates free independent "network" of 9 DNSCrypt servers spread around the gloge to keep your browsing safe and secure.*
 
-all our servers are:
+we personally strongly believe in freedom and essential human right to stay anonymized if you'd like to.
+respecting that fact, all dns4.cc DNS servers & relays were/are/will be:
 
-- **PUBLIC**
-- **DNSSEC CAPABLE**
-- **NON-**
-    - **BLOCKING**
-    - **LOGGING**
-    - **FILTERED**
+- **PUBLIC & FREE TO USE**
+- **SECURED BY DNSSEC**
+- **NON-BLOCKING**
+- **NON-LOGGING**
+- **NON-FILTERED**
 
-and work like DNSCrypt public resolvers and/or anonymization relays. 
+4ever. all servers would be used as DNSCrypt public resolvers and/or anonymization relays. 
 
+**how to :checkered_flag::**
 
 to start using our network simply add the lists of dns4.cc servers and anonymization relays into your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
 
 > right, we bravely expect you've installed dnscrypt-proxy on your endpoint already. :wink:
 > if not, visit [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return here when done. theory and other useful info would be found at [DNSCrypt website](https://dnscrypt.info/).
 
+
+it's easy as:
 
 1. either download dns4.cc repository as ZIP or clone dns4.cc repository to anywhere like 
     ```
