@@ -1,4 +1,4 @@
-# DNSCrypt public resolvers by dns4.cc
+# dns4.cc DNSCrypt public resolvers list
 
 https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md
 
