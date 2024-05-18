@@ -5,7 +5,8 @@ all our servers are:
 
 - **PUBLIC**
 - **DNSSEC CAPABLE**
-- **NON-BLOCKING**
+- **NON-**
+    - **BLOCKING**
     - **LOGGING**
     - **FILTERED**
 
