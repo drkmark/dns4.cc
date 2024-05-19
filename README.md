@@ -1,5 +1,5 @@
 # dns4.cc
-*crew operates free independent "network" of 9 DNSCrypt servers spread around the gloge to keep your browsing safe and secure.*
+*crew operates a free, independent "network" of 9 DNSCrypt servers spread across the globe to keep your surfing safe and secure.*
 *****************************
 
 Personally, we strongly believe in freedom and the fundamental human right to remain anonymous if you wish.
