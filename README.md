@@ -39,7 +39,7 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
     [sources.'dns4.cc-resolvers.md']
         urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md']
         cache_file = 'dns4.cc-resolvers.md'
-        minisign_key = 'OURPUBLICMINISIGNKEYGOESHERE'
+        minisign_key = 'OUR-PUBLIC-MINISIGN-KEY-GOES-HERE'
         refresh_delay = 72
     ```
 
@@ -49,7 +49,7 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
     [sources.'dns4.cc-relays.md']
         urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md']
         cache_file = 'dns4.cc-relays.md'
-        minisign_key = 'OURPUBLICMINISIGNKEYGOESHERE'
+        minisign_key = 'OUR-PUBLIC-MINISIGN-KEY-GOES-HERE'
         refresh_delay = 72
 ```
 
