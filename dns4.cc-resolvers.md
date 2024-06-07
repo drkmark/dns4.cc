@@ -94,13 +94,13 @@ based in Ho Chi Minh City, Vietnam, hosted by GreenCloud 2x vCPU Intel Xeon Gold
    
 sdns://AQcAAAAAAAAAG1syNDAwOjZlYTA6MDoxMjIwOjoxMDddOjQ0MyDdulx47BAn1XlR9rNKighzwSJIdiDbBeJTO7IBW651VBoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy12bg
 
-#  
-#  ## dns4.cc-cz-ipv6
-#  
-#  based in Budweis, Czechia, hosted by forpsi 1x vCPU Intel Core Broadwell family, 1024MB RAM, 1Gbps LAN
-#     
-#  sdns://AQcAAAAAAAAAHVsyMDAxOjE1ZTg6MTEwOjdkMDA6OjE2NF06NDQzIMyY-gkmKdMVhxs6It0oKmmoLarJ4PFu5bHzm6LTGOksHzIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWN6LWlwdjY
-#  
+
+## dns4.cc-cz-ipv6 HAS BEEN SHUT DOWN BY HOSTING PROVIDER :(
+ 
+######### based in Budweis, Czechia, hosted by forpsi 1x vCPU Intel Core Broadwell family, 1024MB RAM, 1Gbps LAN
+     
+######### sdns://AQcAAAAAAAAAHVsyMDAxOjE1ZTg6MTEwOjdkMDA6OjE2NF06NDQzIMyY-#########gkmKdMVhxs6It0oKmmoLarJ4PFu5bHzm6LTGOksHzIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWN6LWlwdjY
+ 
 
 ## dns4.cc-hk-ipv4
 
