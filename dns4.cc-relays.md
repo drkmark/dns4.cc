@@ -69,9 +69,9 @@ sdns://gRIxMDMuMTg2LjY0LjEwODo0NDM
 sdns://gRtbMjQwMDo2ZWEwOjA6MTIyMDo6MTA3XTo0NDM
 
 
-## anon-dns4.cc-cz-ipv6
+######## anon-dns4.cc-cz-ipv6 HAS BEEN SHUT DOWN BY HOSTING PROVIDER. :( R.I.P.
 
-sdns://gR1bMjAwMToxNWU4OjExMDo3ZDAwOjoxNjRdOjQ0Mw
+######## sdns://gR1bMjAwMToxNWU4OjExMDo3ZDAwOjoxNjRdOjQ0Mw
 
 
 ## anon-dns4.cc-hk-ipv6
