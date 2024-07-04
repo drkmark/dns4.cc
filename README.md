@@ -1,7 +1,10 @@
 # dns4.cc
 *crew operates a free, independent "network" of 9 DNSCrypt servers spread across the globe to keep your surfing safe and secure.*
 *****************************
-one of our most popular nodes dns4.cc-cz-ipv6 is down due to "hosting problems". these guys are completely crazy. they should work as ACABs 👮‍♂️ 👮‍♂️ 👮‍♂️ 👮‍♂️ . :( we're sorry for that. will be back soon. hopefully... so, i've removed it from the lists.
+Ladies and gentlemen, good news!
+we don't sleep at all, thanks to our friends in czech republic we reincarnated dns4.cc-cz & anon-dns4.cc-cz! it's back and even better and stronger. now it supports both ipv4 and ipv6 and it's in beta mode. feel free to test it as much as possible to prove connectivity and stability. 
+
+A BIG THANK YOU to MAREK (he knows...) for negotiating and translating.
 *****************************
 
 
