@@ -81,6 +81,20 @@ based in Franfurt am Main, Germany, hosted by GreenCloud 1x vCPU AMD EPYC 7763, 
 sdns://AQcAAAAAAAAAGVsyYTBjOmI4NDA6MTpjNjo6MTA1XTo0NDMgTZQFSw0ZU02vTSAXNserwfl39yDnmVl_N4DHihc97D4aMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtZGU
 
 
+## dns4.cc-cz-ipv4
+
+based in Prague, Czechia, hosted by forpsi 1x vCPU Intel Core Processor (Broadwell, IBRS), 1024MB RAM, 1Gbps LAN
+
+sdns://AQcAAAAAAAAAETgwLjIxMS4yMDAuNjM6NDQzIAIFw4t3c84WbSjQJXMG7RihOc93lYm4kgye0yEf2YBgGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWN6
+
+
+## dns4.cc-cz-ipv6
+
+based in Prague, Czechia, hosted by forpsi 1x vCPU Intel Core Processor (Broadwell, IBRS), 1024MB RAM, 1Gbps LAN
+
+sdns://AQcAAAAAAAAAHFsyMDAxOjE1ZTg6MTEwOjdkMDA6OmJjXTo0NDMgAgXDi3dzzhZtKNAlcwbtGKE5z3eVibiSDJ7TIR_ZgGAaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtY3o
+
+
 ## dns4.cc-vn-ipv4
 
 based in Ho Chi Minh City, Vietnam, hosted by GreenCloud 2x vCPU Intel Xeon Gold 6148, 4096MB RAM, 10Gbps LAN
