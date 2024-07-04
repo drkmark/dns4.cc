@@ -59,6 +59,16 @@ sdns://gRExNzIuOTMuMTg1Ljg2OjQ0Mw
 sdns://gRlbMmEwYzpiODQwOjE6YzY6OjEwNV06NDQz
 
 
+## anon-dns4.cc-cz-ipv4
+
+sdns://gRE4MC4yMTEuMjAwLjYzOjQ0Mw
+
+
+## anon-dns4.cc-cz-ipv6
+
+sdns://gRxbMjAwMToxNWU4OjExMDo3ZDAwOjpiY106NDQz
+
+
 ## anon-dns4.cc-vn-ipv4
 
 sdns://gRIxMDMuMTg2LjY0LjEwODo0NDM
