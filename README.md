@@ -2,7 +2,8 @@
 *crew operates a free, independent "network" of 9 DNSCrypt servers spread across the globe to keep your surfing safe and secure.*
 *****************************
 Ladies and gentlemen, good news!
-we don't sleep at all, thanks to our friends in czech republic we reincarnated dns4.cc-cz & anon-dns4.cc-cz! it's back and even better and stronger. now it supports both ipv4 and ipv6 and it's in beta mode. feel free to test it as much as possible to prove connectivity and stability. 
+
+We don't sleep at all. Thanks to our friends in Prague/CZE we reincarnated dns4.cc-cz & anon-dns4.cc-cz! Yes, it's back finally even better and stronger. Now it supports both ipv4 and ipv6 and it's in beta mode. Feel free to test it as much as possible to prove connectivity and stability. 
 
 A BIG THANK YOU to MAREK (he knows...) for negotiating and translating.
 *****************************
