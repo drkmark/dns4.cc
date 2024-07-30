@@ -1,4 +1,4 @@
-# dns4.cc DNSCrypt anonymization relays
+# Anonymized DNSCrypt relays by dns4.cc
 
 
 https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md
@@ -11,7 +11,6 @@ DNS Anonymization is only compatible with servers supporting the DNSCrypt protoc
 more info about Anonymized DNSCrypt could be found on https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
-********************
 
 
 ## anon-dns4.cc-sk-ipv4
@@ -59,16 +58,6 @@ sdns://gRExNzIuOTMuMTg1Ljg2OjQ0Mw
 sdns://gRlbMmEwYzpiODQwOjE6YzY6OjEwNV06NDQz
 
 
-## anon-dns4.cc-cz-ipv4
-
-sdns://gRE4MC4yMTEuMjAwLjYzOjQ0Mw
-
-
-## anon-dns4.cc-cz-ipv6
-
-sdns://gRxbMjAwMToxNWU4OjExMDo3ZDAwOjpiY106NDQz
-
-
 ## anon-dns4.cc-vn-ipv4
 
 sdns://gRIxMDMuMTg2LjY0LjEwODo0NDM
@@ -77,6 +66,16 @@ sdns://gRIxMDMuMTg2LjY0LjEwODo0NDM
 ## anon-dns4.cc-vn-ipv6
 
 sdns://gRtbMjQwMDo2ZWEwOjA6MTIyMDo6MTA3XTo0NDM
+
+
+## anon-dns4.cc-cz-ipv4
+
+sdns://gRE4MC4yMTEuMjAwLjYzOjQ0Mw
+
+
+## anon-dns4.cc-cz-ipv6
+
+sdns://gR1bMjAwMToxNWU4OjExMDo3ZDAwOjoxNjRdOjQ0Mw
 
 
 ## anon-dns4.cc-hk-ipv6
