@@ -3,13 +3,13 @@
 *****************************
 Ladies and gentlemen, good news!
 
-We don't sleep at all. Thanks to our friends in Prague/CZE we reincarnated dns4.cc-cz & anon-dns4.cc-cz! Yes, it's back finally even better and stronger. Now it supports both ipv4 and ipv6 and it's in beta mode. Feel free to test it as much as possible to prove connectivity and stability. 
+We're thrilled to announce that dns4.cc-cz is back and better than ever! Thanks to our friends in Prague/CZE, we've reincarnated dns4.cc-cz & anon-dns4.cc-cz! It's finally back, and it's better, cooler, and stronger than ever. Now it supports both IPv4 and IPv6, and it's in beta mode. We'd love for you to test it as much as possible to prove connectivity and stability. 
 
-A BIG THANK YOU to MAREK (he knows...) for negotiating and translating.
+A big thank you to Marek (he knows...) for handling the negotiations, translating, and being so welcoming. We had the most incredible, unforgettable couple of days in the most beautiful, ancient city of Prague... 🍺🍺🍺 😎
 *****************************
 
 
-Personally, we strongly believe in freedom and the fundamental human right to remain anonymous if you wish.
+Personally, we are strong believers in FREEDOM and the basic human right to remain anonymous and untraceable if you choose so.
 
 Respecting this fact, all dns4.cc resolvers & anonymizing relays were, are, and always will be:
 
@@ -20,6 +20,9 @@ Respecting this fact, all dns4.cc resolvers & anonymizing relays were, are, and 
 - **NON-FILTERED**
 
 All servers would be used as DNSCrypt public resolvers and/or anonymizing relays. 
+
+We mainly use GreenCloud vps for their affordability, great support and open minded approach, use our [referral link](https://greencloudvps.com/billing/aff.php?aff=6905) to give them a try.
+*****************************
 
 **How to :checkered_flag:**
 
