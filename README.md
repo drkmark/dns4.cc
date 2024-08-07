@@ -5,7 +5,7 @@
     <b>"Freedom is like the future. We all deserve it, but we have to want it to come to us."</b><sup>*</sup>
 </p>
 <p align="center">
-    <sup>* citation by drkmark, feel free to use :)</sup>
+    <sup>* citation by darkmark, feel free to use :)</sup>
 </p>
 
 *****************************
