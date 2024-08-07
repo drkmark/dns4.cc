@@ -1,6 +1,16 @@
 # dns4.cc
 *crew operates a free, independent "network" of 9 DNSCrypt servers spread across the globe to keep your surfing safe and secure.*
+
+<p align="center">
+    <b>"Freedom is like the future. We all deserve it, but we have to want it to come to us."</b><sup>*</sup>
+</p>
+<p align="center">
+    <sup>* citation by drkmark, feel free to use :)</sup>
+</p>
+
 *****************************
+
+
 Ladies and gentlemen, good news!
 
 We're thrilled to announce that dns4.cc-cz is back and better than ever! Thanks to our friends in Prague/CZE, we've reincarnated dns4.cc-cz & anon-dns4.cc-cz! It's finally back, and it's better, cooler, and stronger than ever. Now it supports both IPv4 and IPv6, and it's in beta mode. We'd love for you to test it as much as possible to prove connectivity and stability. 
