@@ -44,7 +44,7 @@ To start using our network simply add the lists of dns4.cc servers and anonymiza
 
 It's easy as:
 
-1. Either download dns4.cc repository as ZIP or clone it to anywhere like 
+1. Either download dns4.cc repository as ZIP or clone it to anywhere like: 
     ```
     git https://git clone https://github.com/drkmark/dns4.cc.git
     ```
