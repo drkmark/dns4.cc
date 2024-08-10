@@ -46,7 +46,7 @@ It's easy as:
 
 1. Either download dns4.cc repository as ZIP or clone it to anywhere like: 
     ```
-    git https://git clone https://github.com/drkmark/dns4.cc.git
+    git clone https://github.com/drkmark/dns4.cc.git
     ```
 and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-proxy/)
     
