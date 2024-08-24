@@ -1,5 +1,5 @@
 # dns4.cc
-*hi there, crew operates a free, independent "network" of 9 DNSCrypt servers spread across the globe to keep your surfing safe and secure.*
+*hi there, crew operates a free, independent "network" of 17 DNSCrypt servers spread across the globe to keep your surfing safe and secure.*
 
 <p align="center">
     <b>"Freedom is like the future. We all deserve it, but we have to want it to come to us."</b><sup>*</sup>
