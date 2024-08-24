@@ -13,7 +13,7 @@ to use that list, add this to the `[sources]` section of your
     [sources.'dns4.cc-resolvers.md']
     urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md']
     cache_file = 'dns4.cc-resolvers.md'
-    
+
 
 
 ## dns4.cc-sk-ipv4
@@ -75,49 +75,49 @@ sdns://AQcAAAAAAAAAETE3Mi45My4xODUuODY6NDQzIE2UBUsNGVNNr00gFzbHq8H5d_cg55lZfzeAx
 ## dns4.cc-de-ipv6
 
 based in Franfurt am Main, Germany, hosted by GreenCloud 1x vCPU AMD EPYC 7763, 2048MB RAM, 10Gbps LAN
-   
+
 sdns://AQcAAAAAAAAAGVsyYTBjOmI4NDA6MTpjNjo6MTA1XTo0NDMgTZQFSw0ZU02vTSAXNserwfl39yDnmVl_N4DHihc97D4aMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtZGU
 
 
 ## dns4.cc-vn-ipv4
 
 based in Ho Chi Minh City, Vietnam, hosted by GreenCloud 2x vCPU Intel Xeon Gold 6148, 4096MB RAM, 10Gbps LAN
-   
+
 sdns://AQcAAAAAAAAAEjEwMy4xODYuNjQuMTA4OjQ0MyCVEhdFE5Pi82ZUvDYUa3-K9snNAnQw5dMyKqUaXY-oKhoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy12bg
 
 
 ## dns4.cc-vn-ipv6
 
 based in Ho Chi Minh City, Vietnam, hosted by GreenCloud 2x vCPU Intel Xeon Gold 6148, 4096MB RAM,
-   
+
 sdns://AQcAAAAAAAAAG1syNDAwOjZlYTA6MDoxMjIwOjoxMDddOjQ0MyCVEhdFE5Pi82ZUvDYUa3-K9snNAnQw5dMyKqUaXY-oKhoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy12bg
 
 
 ## dns4.cc-cz-ipv4
 
 based in Prague, Czechia, hosted by forpsi 1x vCPU Intel Core Processor (Broadwell, IBRS), 1024MB RAM, 1Gbps LAN
-    
+
 sdns://AQcAAAAAAAAAETgwLjIxMS4yMDAuNjM6NDQzIAIFw4t3c84WbSjQJXMG7RihOc93lYm4kgye0yEf2YBgGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWN6
 
 
 ## dns4.cc-cz-ipv6
 
-based in Budweis, Czechia, hosted by forpsi 1x vCPU Intel Core Broadwell family, 1024MB RAM, 1Gbps LAN
-   
+based in Prague, Czechia, hosted by forpsi 1x vCPU Intel Core Broadwell family, 1024MB RAM, 1Gbps LAN
+
 sdns://AQcAAAAAAAAAHFsyMDAxOjE1ZTg6MTEwOjdkMDA6OmJjXTo0NDMgAgXDi3dzzhZtKNAlcwbtGKE5z3eVibiSDJ7TIR_ZgGAaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtY3o
 
 
 ## dns4.cc-hk-ipv4
 
 based in Hong Kong, China, hosted by GreenCloud 2x vCPU Intel Xeon E5-2698 v4, 4096MB RAM, 10Gbps LAN
-   
+
 sdns://AQcAAAAAAAAAETg1LjExMy43MS4xNjM6NDQzICdQMXIwpUABjfAkZZpXTMIZc_tBeKwUSKA-6uVRKBCNGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWhr
 
 
 ## dns4.cc-hk-ipv6
 
 based in Hong Kong, China, hosted by GreenCloud 2x vCPU Intel Xeon E5-2698 v4, 4096MB RAM, 10Gbps LAN
-   
+
 sdns://AQcAAAAAAAAAIFsyMDAxOmRmMTo4MDE6YTAyMDo6M2IyOjEwOF06NDQzICdQMXIwpUABjfAkZZpXTMIZc_tBeKwUSKA-6uVRKBCNGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWhr
 
 
@@ -125,12 +125,12 @@ sdns://AQcAAAAAAAAAIFsyMDAxOmRmMTo4MDE6YTAyMDo6M2IyOjEwOF06NDQzICdQMXIwpUABjfAkZ
 ## dns4.cc-us-ny-ipv4
 
 based in Buffalo, New York, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
-   
+
 sdns://AQcAAAAAAAAAEzEwNy4xNzUuMTc5LjEwMzo0NDMgrZ1ipBVLvEU2HFdLFnplJzNkCvVud43Ev5FKQzm7aZIdMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtdXMtbnk
 
 
 ## dns4.cc-us-ny-ipv6
 
 based in Buffalo, New York, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
-   
+
 sdns://AQcAAAAAAAAAG1syNjAyOmZmYzg6MjphMGQzOjoxMDldOjQ0MyCtnWKkFUu8RTYcV0sWemUnM2QK9W53jcS_kUpDObtpkh0yLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy11cy1ueQ
