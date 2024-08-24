@@ -75,7 +75,7 @@ sdns://gRE4MC4yMTEuMjAwLjYzOjQ0Mw
 
 ## anon-dns4.cc-cz-ipv6
 
-sdns://gR1bMjAwMToxNWU4OjExMDo3ZDAwOjoxNjRdOjQ0Mw
+sdns://gRxbMjAwMToxNWU4OjExMDo3ZDAwOjpiY106NDQz
 
 
 ## anon-dns4.cc-hk-ipv6

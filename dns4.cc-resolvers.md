@@ -104,7 +104,7 @@ sdns://AQcAAAAAAAAAETgwLjIxMS4yMDAuNjM6NDQzIAIFw4t3c84WbSjQJXMG7RihOc93lYm4kgye0
 
 based in Budweis, Czechia, hosted by forpsi 1x vCPU Intel Core Broadwell family, 1024MB RAM, 1Gbps LAN
    
-sdns://AQcAAAAAAAAAHVsyMDAxOjE1ZTg6MTEwOjdkMDA6OjE2NF06NDQzIMyY-gkmKdMVhxs6It0oKmmoLarJ4PFu5bHzm6LTGOksHzIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWN6LWlwdjY
+sdns://AQcAAAAAAAAAHFsyMDAxOjE1ZTg6MTEwOjdkMDA6OmJjXTo0NDMgAgXDi3dzzhZtKNAlcwbtGKE5z3eVibiSDJ7TIR_ZgGAaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtY3o
 
 
 ## dns4.cc-hk-ipv4
