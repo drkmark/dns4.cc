@@ -13,6 +13,8 @@
 
 Ladies and gentlemen, good news!
 
+Big in Japan, great song by Alphaville, I'm wondering if you remember how great this song by Alphaville was. We were teenagers then, but now it's going to be true! dns4.cc crew will soon introduce new dns4.cc-jp-ipv4 & dns4.cc-jp-ipv6 nodes. It's located near the holy Mt. Fuji, which is a very special place. Check the map, circle around the globe then closes. Expected launch date in September 2024.
+***
 We're thrilled to announce that dns4.cc-cz is back and better than ever! Thanks to our friends in Prague/CZE, we've reincarnated dns4.cc-cz & anon-dns4.cc-cz! It's finally back, and it's better, cooler, and stronger than ever. Now it supports both IPv4 and IPv6, and it's in beta mode. We'd love for you to test it as much as possible to prove connectivity and stability. 
 
 A big thank you to Marek (he knows...) for handling the negotiations, translating, and being so welcoming. We had the most incredible, unforgettable couple of days in the most beautiful, ancient city of Prague... 🍺🍺🍺 😎
