@@ -96,3 +96,13 @@ sdns://gRMxMDcuMTc1LjE3OS4xMDM6NDQz
 ## anon-dns4.cc-us-ny-ipv6
 
 sdns://gRtbMjYwMjpmZmM4OjI6YTBkMzo6MTA5XTo0NDM
+
+
+## anon-dns4.cc-jp-ipv4
+
+sdns://gRI0NS4xNDIuMTY2LjIwNTo0NDM
+
+
+## anon-dns4.cc-jp-ipv6
+
+sdns://gR1bMjQwMzo3MWMwOjIwMDA6YTEzYjo6NjBdOjQ0Mw
