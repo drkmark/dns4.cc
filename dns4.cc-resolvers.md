@@ -90,7 +90,7 @@ sdns://AQcAAAAAAAAAETgwLjIxMS4yMDAuNjM6NDQzIAIFw4t3c84WbSjQJXMG7RihOc93lYm4kgye0
 
 based in Budweis, Czechia, hosted by forpsi 1x vCPU Intel Core Broadwell family, 1024MB RAM, 1Gbps LAN
    
-sdns://AQcAAAAAAAAAHVsyMDAxOjE1ZTg6MTEwOjdkMDA6OjE2NF06NDQzIMyY-gkmKdMVhxs6It0oKmmoLarJ4PFu5bHzm6LTGOksHzIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWN6LWlwdjY
+sdns://AQcAAAAAAAAAHFsyMDAxOjE1ZTg6MTEwOjdkMDA6OmJjXTo0NDMgAgXDi3dzzhZtKNAlcwbtGKE5z3eVibiSDJ7TIR_ZgGAaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtY3o
 
 
 ## dns4.cc-hk-ipv4
@@ -107,7 +107,6 @@ based in Hong Kong, China, hosted by GreenCloud 2x vCPU Intel Xeon E5-2698 v4, 4
 sdns://AQcAAAAAAAAAIFsyMDAxOmRmMTo4MDE6YTAyMDo6M2IyOjEwOF06NDQzICdQMXIwpUABjfAkZZpXTMIZc_tBeKwUSKA-6uVRKBCNGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWhr
 
 
-
 ## dns4.cc-us-ny-ipv4
 
 based in Buffalo, New York, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
@@ -120,3 +119,18 @@ sdns://AQcAAAAAAAAAEzEwNy4xNzUuMTc5LjEwMzo0NDMgrZ1ipBVLvEU2HFdLFnplJzNkCvVud43Ev
 based in Buffalo, New York, hosted by GreenCloud 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
    
 sdns://AQcAAAAAAAAAG1syNjAyOmZmYzg6MjphMGQzOjoxMDldOjQ0MyCtnWKkFUu8RTYcV0sWemUnM2QK9W53jcS_kUpDObtpkh0yLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy11cy1ueQ
+
+
+## dns4.cc-jp-ipv4
+
+based in Tokyo, Japan, hosted by GreenCloud 2x vCPU Intel Xeon E5-2698 v4, 4096MB RAM, 10Gbps LAN
+
+sdns://AQcAAAAAAAAAEjQ1LjE0Mi4xNjYuMjA1OjQ0MyDjFfk7ebogCdsKskDL6PAmZC1j4Wc7WfYfFvwuynZ6CBoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1qcA
+
+
+## dns4.cc-jp-ipv6
+
+based in Tokyo, Japan, hosted by GreenCloud 2x vCPU Intel Xeon E5-2698 v4, 4096MB RAM, 10Gbps LAN 
+
+sdns://AQcAAAAAAAAAHVsyNDAzOjcxYzA6MjAwMDphMTNiOjo2MF06NDQzIOMV-Tt5uiAJ2wqyQMvo8CZkLWPhZztZ9h8W_C7KdnoIGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWpw
+
