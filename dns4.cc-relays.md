@@ -23,11 +23,6 @@ sdns://gRExODUuOTEuMTE2LjkyOjQ0Mw
 sdns://gRIxNzMuMjQ5LjIwMS4xMTo0NDM
 
 
-## anon-dns4.cc-us-tx-ipv4
-
-sdns://gRA2NC40NC4xNTguMjE6NDQz
-
-
 ## anon-dns4.cc-uk-ipv4
 
 sdns://gRA5NC4yMjkuNzIuMzQ6NDQz
@@ -36,11 +31,6 @@ sdns://gRA5NC4yMjkuNzIuMzQ6NDQz
 ## anon-dns4.cc-us-ca-ipv6
 
 sdns://gRtbMjYwNzoxZTQwOjA6MTA1YTo6MTAyXTo0NDM
-
-
-## anon-dns4.cc-us-tx-ipv6
-
-sdns://gRtbMjYwMjpmZmM4OjQ6YTFjOTo6MTAzXTo0NDM
 
 
 ## anon-dns4.cc-uk-ipv6
@@ -75,7 +65,7 @@ sdns://gRE4MC4yMTEuMjAwLjYzOjQ0Mw
 
 ## anon-dns4.cc-cz-ipv6
 
-sdns://gRxbMjAwMToxNWU4OjExMDo3ZDAwOjpiY106NDQz
+sdns://gR1bMjAwMToxNWU4OjExMDo3ZDAwOjoxNjRdOjQ0Mw
 
 
 ## anon-dns4.cc-hk-ipv6
@@ -96,13 +86,3 @@ sdns://gRMxMDcuMTc1LjE3OS4xMDM6NDQz
 ## anon-dns4.cc-us-ny-ipv6
 
 sdns://gRtbMjYwMjpmZmM4OjI6YTBkMzo6MTA5XTo0NDM
-
-
-## anon-dns4.cc-jp-ipv4
-
-sdns://gRI0NS4xNDIuMTY2LjIwNTo0NDM
-
-
-## anon-dns4.cc-jp-ipv6
-
-sdns://gR1bMjQwMzo3MWMwOjIwMDA6YTEzYjo6NjBdOjQ0Mw
