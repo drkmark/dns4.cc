@@ -13,12 +13,14 @@ to use that list, add this to the `[sources]` section of your
     [sources.'dns4.cc-resolvers.md']
     urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-resolvers.md']
     cache_file = 'dns4.cc-resolvers.md'
+    minisign_key = 'RWSa3ks93k8BuH8gSwyhQnj3qZvsEPzm6eEs7npn5NgE0QZ9RSd/0K/g'
+    refresh_delay = 72
 
 
 
 ## dns4.cc-sk-ipv4
 
-ipv4 only, based in Slovakia, hosted by crew.sk 1x vCPU AMD Ryzen 9 3900X, 550MB RAM, 1Gbps LAN
+ipv4 only, based in Slovakia, hosted by crew.sk, 1x vCPU AMD Ryzen 9 3900X, 550MB RAM, 1Gbps LAN
 
 sdns://AQcAAAAAAAAAETE4NS45MS4xMTYuOTI6NDQzIDczYJBaBsh2FhK1fOkY7-5mdj-UAVQZWDHZMlOQnUj4HzIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNrLWlwdjQ
 
