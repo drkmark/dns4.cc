@@ -41,14 +41,14 @@ sdns://AQcAAAAAAAAAG1syNjA3OjFlNDA6MDoxMDVhOjoxMDJdOjQ0MyDqvpyLGb9d2_0F52cFDyCPU
 
 based in Dallas, Texas, hosted by GreenCloud 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
-DNS Stamp: sdns://AQcAAAAAAAAAEDY0LjQ0LjE1OC4yMTo0NDMgAqgRSaZK3YraHurmdZ4fRkBWEI0qgGIBWHP1oT2hrG8dMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtdXMtdHg
+sdns://AQcAAAAAAAAAEDY0LjQ0LjE1OC4yMTo0NDMgAqgRSaZK3YraHurmdZ4fRkBWEI0qgGIBWHP1oT2hrG8dMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtdXMtdHg
 
 
 ## dns4.cc-us-tx-ipv6
 
 based in Dallas, Texas, hosted by GreenCloud 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
-DNS Stamp: sdns://AQcAAAAAAAAAG1syNjAyOmZmYzg6NDphMWM5OjoxMDNdOjQ0MyACqBFJpkrditoe6uZ1nh9GQFYQjSqAYgFYc_WhPaGsbx0yLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy11cy10eA
+sdns://AQcAAAAAAAAAG1syNjAyOmZmYzg6NDphMWM5OjoxMDNdOjQ0MyACqBFJpkrditoe6uZ1nh9GQFYQjSqAYgFYc_WhPaGsbx0yLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy11cy10eA
 
 
 ## dns4.cc-uk-ipv4
