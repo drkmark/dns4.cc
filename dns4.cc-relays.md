@@ -16,6 +16,14 @@ sdns://gRExODUuOTEuMTE2LjkyOjQ0Mw
 
 sdns://gRIxNzMuMjQ5LjIwMS4xMTo0NDM
 
+## anon-dns4.cc-us-tx-ipv4
+
+sdns://gRA2NC40NC4xNTguMjE6NDQz
+
+## anon-dns4.cc-us-tx-ipv6
+
+sdns://gRtbMjYwMjpmZmM4OjQ6YTFjOTo6MTAzXTo0NDM
+
 ## anon-dns4.cc-uk-ipv4
 
 sdns://gRA5NC4yMjkuNzIuMzQ6NDQz
