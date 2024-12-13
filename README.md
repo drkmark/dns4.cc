@@ -33,7 +33,7 @@ A big thank you to Marek (he knows...) for handling the negotiations, translatin
 *****************************
 
 
-Personally, we are strong believers in FREEDOM and the basic human right to remain anonymous and untraceable if you choose so.
+Personally, we are strong believers in **FREEDOM** and the basic human right to remain anonymous and untraceable if you choose so.
 
 Respecting this fact, all dns4.cc resolvers & anonymizing relays were, are, and always will be:
 
