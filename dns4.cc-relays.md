@@ -38,7 +38,7 @@ sdns://gRpbMmEwYzpiODQwOjI6MjM3OjoxMDRdOjQ0Mw
 
 ## anon-dns4.cc-de-ipv4
 
-sdns://gRExNzIuOTMuMTg1Ljg2OjQ0Mw
+sdns://gRExMDkuOTQuMTcwLjI5OjQ0Mw
 
 ## anon-dns4.cc-de-ipv6
 
