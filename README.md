@@ -1,9 +1,12 @@
 # dns4.cc
 *hi there, crew operates a free, independent "network" of 21 DNSCrypt servers spread across the globe to keep your surfing safe and secure.*
 
+Welcome and enjoy the world where we take care about Your digital footprint and data anonymity as much as You're allowing us by Your online habbits. At the end of a day it's **ONLY** up to You what's revealed/shared and go out of Your control. It's **ONLY** Your decision, thanks to our technology, countless experience and knowledge. It's all **ONLY** up to You with dns4.cc DNS servers.
+
 <p align="center">
     <b>"Freedom is like the future. We all deserve it, but we have to want it to come to us."</b><sup>*</sup>
 </p>
+
 <p align="center">
     <sup>* citation by darkmark, feel free to use :)</sup>
 </p>
@@ -13,17 +16,17 @@
 
 Ladies and gentlemen, good news!
 
-Dec-13-2024 - 
+**Dec-13-2024** - 
 The new resolver and anonymization relay in Singapore!
 We add new node in Singapore, it's in beta regime, but feel free to test now! It's running on OVH cloud and it's names are dns4.cc-sg-ipv4, dns4.cc-sg-ipv6, anon-dns4.cc-sg-ipv4 and anon-dns4.cc-sg-ipv6. Enjoy the new node in an asian capital of business and let us know your experience.
 ***
-Dec-13-2024 - 
+**Dec-13-2024** - 
 dns4.cc-ge-ipv4 has a new IPv4 address, we expecting IPv6 gonna change too soon.
 ***
-Sep-7-2024 - 
+**Sep-7-2024** - 
 Big in Japan, great song by Alphaville, I'm wondering if you remember how great this song by Alphaville was. We were teenagers then, but now it's going to be true! dns4.cc crew will soon introduce new dns4.cc-jp-ipv4 & dns4.cc-jp-ipv6 nodes. It's located near the holy Mt. Fuji, which is a very special place. Check the map, circle around the globe then closes. Expected launch date in September 2024.
 ***
-Jun-1-2024 - 
+**Jun-1-2024** - 
 We're thrilled to announce that dns4.cc-cz is back and better than ever! Thanks to our friends in Prague/CZE, we've reincarnated dns4.cc-cz & anon-dns4.cc-cz! It's finally back, and it's better, cooler, and stronger than ever. Now it supports both IPv4 and IPv6, and it's in beta mode. We'd love for you to test it as much as possible to prove connectivity and stability. 
 
 A big thank you to Marek (he knows...) for handling the negotiations, translating, and being so welcoming. We had the most incredible, unforgettable couple of days in the most beautiful, ancient city of Prague... 🍺🍺🍺 😎
@@ -45,7 +48,20 @@ All servers would be used as DNSCrypt public resolvers and/or anonymizing relays
 We mainly use GreenCloud vps for their affordability, great support and open minded approach, use our [referral link](https://greencloudvps.com/billing/aff.php?aff=6905) to give them a try.
 *****************************
 
-**How to :checkered_flag:**
+
+Before we get started, it's nice to keep in mind a few really basic reminders about how to behave in a binary world:
+
++ It's OK to be suspicious, suspicious and cautious in every way possible.
++ It's okay to use only proven tools or software (I don't want to push you into a corner, but DNS servers provided by dns4.cc are the best choice 😆).
++ It's normal to consider your data and digital security and/or anonymity as a treasure.
++ 👮, 🕵️, hackers, 🤖 and other whateversuckers never sleep and are at least one step ahead...
++ This fight should **NEVER** be over.
++ It's generally getting worse by the minute.
++ At the end of the day, you're the only one responsible for your digital anonymity and security.
+*****************************
+
+
+** And finally how to :checkered_flag:**
 
 To start using our network simply add the lists of dns4.cc servers and anonymization relays to your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
 
