@@ -54,7 +54,7 @@ Before we get started, it's nice to keep in mind a few really basic reminders ab
 + It's OK to be suspicious, suspicious and cautious in every way possible.
 + It's okay to use only proven tools or software (I don't want to push you into a corner, but DNS servers provided by dns4.cc are the best choice 😆).
 + It's normal to consider your data and digital security and/or anonymity as a treasure.
-+ 👮, 🕵️, hackers, 🤖 and other whateversuckers never sleep and are at least one step ahead...
++ ACABs(👮), 🕵️, hackers, 🤖 and other whateversuckers never sleep and are at least one step ahead...
 + This fight should **NEVER** be over.
 + It's generally getting worse by the minute.
 + At the end of the day, you're the only one responsible for your digital anonymity and security.
