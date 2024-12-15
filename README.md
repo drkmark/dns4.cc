@@ -66,7 +66,7 @@ Before we get started, it's nice to keep in mind a few really basic reminders ab
 To start using our network simply add the lists of dns4.cc servers and anonymization relays to your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
 
 > Right, we boldly assume that you already have dnscrypt-proxy installed on your :computer: and/or :iphone:. :wink:
-> If not, visit the [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return back when you are done. Theory and other useful info can be found at the [DNSCrypt website](https://dnscrypt.info/).
+> If not, visit the [dnscrypt-proxy repo](https://github.com/DNSCrypt/dnscrypt-proxy) for more details and return back when you are done. Theory and other useful stuff can be found at the [DNSCrypt website](https://dnscrypt.info/).
 
 
 It's easy as:
