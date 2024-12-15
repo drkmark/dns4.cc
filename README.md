@@ -14,7 +14,7 @@ Welcome and enjoy the world where we take care about Your digital footprint and 
 *****************************
 
 
-Ladies and gentlemen, good news!
+**Ladies and gentlemen, good news!**
 
 **Dec-13-2024** - 
 Let us kindly introduce the new node in Singapore!
