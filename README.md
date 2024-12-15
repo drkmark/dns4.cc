@@ -51,7 +51,7 @@ We mainly use GreenCloud vps for their affordability, great support and open min
 
 Before we get started, it's nice to keep in mind a few really basic reminders about how to behave in a binary world:
 
-+ It's OK to be suspicious, suspicious and cautious in every way possible.
++ It's OK to be suspicious, suspicious and one more time suspicious and cautious in every way possible.
 + It's okay to use only proven tools or software (I don't want to push you into a corner, but DNS servers provided by dns4.cc are the best choice 😆).
 + It's normal to consider your data and digital security and/or anonymity as a treasure.
 + ACABs(👮), 🕵️, hackers, 🤖 and other whateversuckers never sleep and are at least one step ahead...
