@@ -8,7 +8,7 @@ Welcome and enjoy the world where we take care about Your digital footprint and 
 </p>
 
 <p align="center">
-    <sup>* citation by darkmark, feel free to use :)</sup>
+    <sup>* citation by darkmark, feel free to use & spread it!:)</sup>
 </p>
 
 *****************************
