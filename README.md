@@ -21,7 +21,7 @@ The new resolver and anonymization relay in Singapore!
 We add new node in Singapore, it's in beta regime, but feel free to test now! It's running on OVH cloud and it's names are dns4.cc-sg-ipv4, dns4.cc-sg-ipv6, anon-dns4.cc-sg-ipv4 and anon-dns4.cc-sg-ipv6. Enjoy the new node in an asian capital of business and let us know your experience.
 ***
 **Dec-13-2024** - 
-dns4.cc-ge-ipv4 has a new IPv4 address, we expecting IPv6 gonna change too soon.
+dns4.cc-ge-ipv4 has a new IPv4 address, we're expecting IPv6 gonna change too soon.
 ***
 **Sep-7-2024** - 
 Big in Japan, great song by Alphaville, I'm wondering if you remember how great this song by Alphaville was. We were teenagers then, but now it's going to be true! dns4.cc crew will soon introduce new dns4.cc-jp-ipv4 & dns4.cc-jp-ipv6 nodes. It's located near the holy Mt. Fuji, which is a very special place. Check the map, circle around the globe then closes. Expected launch date in September 2024.
