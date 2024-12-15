@@ -61,7 +61,7 @@ Before we get started, it's nice to keep in mind a few really basic reminders ab
 *****************************
 
 
-** And finally how to :checkered_flag:**
+**And finally how to :checkered_flag:**
 
 To start using our network simply add the lists of dns4.cc servers and anonymization relays to your `dnscrypt-proxy.toml` config, restart the service and enjoy. 
 
