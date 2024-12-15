@@ -17,8 +17,8 @@ Welcome and enjoy the world where we take care about Your digital footprint and 
 Ladies and gentlemen, good news!
 
 **Dec-13-2024** - 
-The new resolver and anonymization relay in Singapore!
-We add new node in Singapore, it's in beta regime, but feel free to test now! It's running on OVH cloud and it's names are dns4.cc-sg-ipv4, dns4.cc-sg-ipv6, anon-dns4.cc-sg-ipv4 and anon-dns4.cc-sg-ipv6. Enjoy the new node in an asian capital of business and let us know your experience.
+Let us kindly introduce the new node in Singapore!
+We add new node in Singapore, it's in beta regime now, but feel free to test it! It runs on OVH cloud and its names are dns4.cc-sg-ipv4, dns4.cc-sg-ipv6, anon-dns4.cc-sg-ipv4 and anon-dns4.cc-sg-ipv6. Enjoy the new node in an Asian business capital and let us know your experiences.
 ***
 **Dec-13-2024** - 
 dns4.cc-ge-ipv4 has a new IPv4 address, we're expecting IPv6 gonna change too soon.
