@@ -17,7 +17,7 @@ Welcome and enjoy the world where we take care about Your digital footprint and 
 <ins>**Ladies and gentlemen, good news!**</ins>
 
 **Dec-16-2024**
-dnbs4.cc-ge-* is back! 
+dnbs4.cc-de-* is back! 
 ***
 **Dec-13-2024** - 
 Let us kindly introduce the new node in Singapore!
