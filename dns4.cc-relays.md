@@ -42,7 +42,7 @@ sdns://gRExMDkuOTQuMTcwLjI5OjQ0Mw
 
 ## anon-dns4.cc-de-ipv6
 
-sdns://gRlbMmEwYzpiODQwOjE6YzY6OjEwNV06NDQz
+sdns://gRxbMmEwMzpkOWMyOjEwMDoxNzM6OjEwNV06NDQz
 
 ## anon-dns4.cc-vn-ipv4
 

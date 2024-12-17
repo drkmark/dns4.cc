@@ -67,7 +67,7 @@ sdns://AQcAAAAAAAAAETEwOS45NC4xNzAuMjk6NDQzIE2UBUsNGVNNr00gFzbHq8H5d_cg55lZfzeAx
 
 based in Franfurt am Main, Germany, hosted by GreenCloud, 1x vCPU AMD EPYC 7763, 2048MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAGVsyYTBjOmI4NDA6MTpjNjo6MTA1XTo0NDMgTZQFSw0ZU02vTSAXNserwfl39yDnmVl_N4DHihc97D4aMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtZGU
+sdns://AQcAAAAAAAAAHFsyYTAzOmQ5YzI6MTAwOjE3Mzo6MTA1XTo0NDMgTZQFSw0ZU02vTSAXNserwfl39yDnmVl_N4DHihc97D4aMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtZGU
 
 ## dns4.cc-vn-ipv4
 
@@ -137,6 +137,6 @@ sdns://AQcAAAAAAAAAETUxLjc5LjE1Ny4xMzk6NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9
 
 ## dns4.cc-sg-ipv6
 
-based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN                                                                                      
+based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN
 
 sdns://AQcAAAAAAAAAHVsyNDAyOjFmMDA6ODAwMDo4MDA6OmMwMV06NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9CIrCtMjGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNn
