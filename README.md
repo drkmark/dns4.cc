@@ -94,23 +94,23 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
 
     b. dns4.cc anonymizing relays
 
-```
+    ```
     [sources.'dns4.cc-relays.md']
         urls = ['https://raw.githubusercontent.com/drkmark/dns4.cc/main/dns4.cc-relays.md']
         cache_file = 'dns4.cc-relays.md'
         minisign_key = 'OUR-PUBLIC-MINISIGN-KEY-GOES-HERE'
         refresh_delay = 72
-```
+    ```
 
 3. In `[anonymized_dns]` section then add routes as needed, i.e. (or as you wish):
 
-```    
+    ```    
     routes = [
         { server_name='dns4.cc-us-ca-ipv4', via=['anon-dns4.cc-us-ny-ipv4'], via=['anon-dns4.cc-us-tx-ipv4'] },
         { server_name='dns4.cc-vn-ipv6', via=['anon-dns4.cc-hk-ipv6'], via=['anon-dns4.cz-ipv6'] },
         .....
         ]
-```
+    ```
 Btw. it's not necessary to be "superanonymized" over more than 1-2 relays, as the latency would increase dramatically.
 Just check and play with routes to test the latency, e.g. with [DNS leak script](https://github.com/macvk/dnsleaktest/blob/master/dnsleaktest.sh) from [@macvk](https://github.com/macvk).
 
