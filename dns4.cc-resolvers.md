@@ -105,17 +105,17 @@ based in Hong Kong, China, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698 v4, 
 
 sdns://AQcAAAAAAAAAIFsyMDAxOmRmMTo4MDE6YTAyMDo6M2IyOjEwOF06NDQzICdQMXIwpUABjfAkZZpXTMIZc_tBeKwUSKA-6uVRKBCNGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWhr
 
-## dns4.cc-us-ny-ipv4
+## dns4.cc-us-va-ipv4
 
-based in Buffalo, New York, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
+based in Ashburn, Virginia, hosted by GreenCloud, 1x vCPU AMD EPYC 7702, 2048MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAEzEwNy4xNzUuMTc5LjEwMzo0NDMgrZ1ipBVLvEU2HFdLFnplJzNkCvVud43Ev5FKQzm7aZIdMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtdXMtbnk
+sdns://AQcAAAAAAAAAEzE3My4yNDkuMTk1LjIyNTo0NDMgFb1V2sr-0rWP4_RBj4dA5Bp5EJog6W753t8mUsb75-kdMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtdXMtdmE
 
-## dns4.cc-us-ny-ipv6
+## dns4.cc-us-va-ipv6
 
-based in Buffalo, New York, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2697 v3, 2048MB RAM, 10Gbps LAN
+based in Ashburn, Virginia, hosted by GreenCloud, 1x vCPU AMD EPYC 7702, 2048MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAG1syNjAyOmZmYzg6MjphMGQzOjoxMDldOjQ0MyCtnWKkFUu8RTYcV0sWemUnM2QK9W53jcS_kUpDObtpkh0yLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy11cy1ueQ
+sdns://AQcAAAAAAAAAHVsyNjA3OjkwMDA6OTAwMDoxMGNiOjo4NV06NDQzIBW9VdrK_tK1j-P0QY-HQOQaeRCaIOlu-d7fJlLG--fpHTIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXVzLXZh
 
 ## dns4.cc-jp-ipv4
 

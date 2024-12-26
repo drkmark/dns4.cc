@@ -68,13 +68,13 @@ sdns://gSBbMjAwMTpkZjE6ODAxOmEwMjA6OjNiMjoxMDhdOjQ0Mw
 
 sdns://gRE4NS4xMTMuNzEuMTYzOjQ0Mw
 
-## anon-dns4.cc-us-ny-ipv4
+## anon-dns4.cc-us-va-ipv4
 
-sdns://gRMxMDcuMTc1LjE3OS4xMDM6NDQz
+sdns://gRMxNzMuMjQ5LjE5NS4yMjU6NDQz
 
-## anon-dns4.cc-us-ny-ipv6
+## anon-dns4.cc-us-va-ipv6
 
-sdns://gRtbMjYwMjpmZmM4OjI6YTBkMzo6MTA5XTo0NDM
+sdns://gR1bMjYwNzo5MDAwOjkwMDA6MTBjYjo6ODVdOjQ0Mw
 
 ## anon-dns4.cc-jp-ipv4
 
