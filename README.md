@@ -18,6 +18,9 @@ Welcome and enjoy the world where we take care about Your digital footprint and 
     </p>
 
 
+**Dec-26-2024**
+dns4.cc-us-ny-* 🇺🇸 has been moved! Buffalo, NY >> Ashburn, VA and renamed to dns4.cc-us-va-* It's much more faster now.
+***
 **Dec-16-2024**
 dns4.cc-de-* in 🇩🇪 is back! 
 ***
@@ -106,7 +109,7 @@ and copy all the files to dnscrypt-proxy working directory (i.e. /opt/dnscrypt-p
 
     ```    
     routes = [
-        { server_name='dns4.cc-us-ca-ipv4', via=['anon-dns4.cc-us-ny-ipv4'], via=['anon-dns4.cc-us-tx-ipv4'] },
+        { server_name='dns4.cc-us-ca-ipv4', via=['anon-dns4.cc-us-va-ipv4'], via=['anon-dns4.cc-us-tx-ipv4'] },
         { server_name='dns4.cc-vn-ipv6', via=['anon-dns4.cc-hk-ipv6'], via=['anon-dns4.cz-ipv6'] },
         .....
         ]
@@ -127,7 +130,7 @@ DNS servers locations as of December 2024:
 ### US 🇺🇸
  - San Jose, CA
  - Dallas, TX 
- - Buffalo, NY
+ - Ashburn, VA
 
 ### Europe
  - Coventry, UK 🇬🇧
