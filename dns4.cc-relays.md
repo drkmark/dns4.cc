@@ -38,11 +38,11 @@ sdns://gRpbMmEwYzpiODQwOjI6MjM3OjoxMDRdOjQ0Mw
 
 ## anon-dns4.cc-de-ipv4
 
-sdns://gRExMDkuOTQuMTcwLjI5OjQ0Mw
+sdns://gRIxMDkuOTQuMTcxLjEzMTo0NDM
 
 ## anon-dns4.cc-de-ipv6
 
-sdns://gRxbMmEwMzpkOWMyOjEwMDoxNzM6OjEwNV06NDQz
+sdns://gRpbMmEwMzpkOWMyOjEwMDpjMjo6ODhdOjQ0Mw
 
 ## anon-dns4.cc-vn-ipv4
 

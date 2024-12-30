@@ -59,15 +59,15 @@ sdns://AQcAAAAAAAAAGlsyYTBjOmI4NDA6MjoyMzc6OjEwNF06NDQzIPUjNDkYm57kfAO9zwaz007eV
 
 ## dns4.cc-de-ipv4
 
-based in Franfurt am Main, Germany, hosted by GreenCloud, 1x vCPU AMD EPYC 7763, 2048MB RAM, 10Gbps LAN
+based in Franfurt am Main, Germany, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAETEwOS45NC4xNzAuMjk6NDQzIE2UBUsNGVNNr00gFzbHq8H5d_cg55lZfzeAx4oXPew-GjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWRl
+sdns://AQcAAAAAAAAAEjEwOS45NC4xNzEuMTMxOjQ0MyDey545cmPP-Mb1UIiUzR5QwDnZCgMFj2mVVJwMTj2E-xoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1kZQ
 
 ## dns4.cc-de-ipv6
 
-based in Franfurt am Main, Germany, hosted by GreenCloud, 1x vCPU AMD EPYC 7763, 2048MB RAM, 10Gbps LAN
+based in Franfurt am Main, Germany, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAHFsyYTAzOmQ5YzI6MTAwOjE3Mzo6MTA1XTo0NDMgTZQFSw0ZU02vTSAXNserwfl39yDnmVl_N4DHihc97D4aMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtZGU
+sdns://AQcAAAAAAAAAGlsyYTAzOmQ5YzI6MTAwOmMyOjo4OF06NDQzIN7LnjlyY8_4xvVQiJTNHlDAOdkKAwWPaZVUnAxOPYT7GjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWRl
 
 ## dns4.cc-vn-ipv4
 
