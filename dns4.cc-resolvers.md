@@ -73,13 +73,13 @@ sdns://AQcAAAAAAAAAGlsyYTAzOmQ5YzI6MTAwOmMyOjo4OF06NDQzIN7LnjlyY8_4xvVQiJTNHlDAO
 
 based in Ho Chi Minh City, Vietnam, hosted by GreenCloud, 2x vCPU Intel Xeon Gold 6148, 4096MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAEjEwMy4xODYuNjQuMTA4OjQ0MyCVEhdFE5Pi82ZUvDYUa3-K9snNAnQw5dMyKqUaXY-oKhoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy12bg
+sdns://AQcAAAAAAAAAEjEwMy4xODYuNjQuMTA4OjQ0MyANI6onBGJM2GNHAMPL1oOhvi8xvJlZLIvtfADSjdc3ehoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy12bg
 
 ## dns4.cc-vn-ipv6
 
 based in Ho Chi Minh City, Vietnam, hosted by GreenCloud, 2x vCPU Intel Xeon Gold 6148, 4096MB RAM,
 
-sdns://AQcAAAAAAAAAG1syNDAwOjZlYTA6MDoxMjIwOjoxMDddOjQ0MyCVEhdFE5Pi82ZUvDYUa3-K9snNAnQw5dMyKqUaXY-oKhoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy12bg
+sdns://AQcAAAAAAAAAG1syNDAwOjZlYTA6MDoxMjIwOjoxMDddOjQ0MyANI6onBGJM2GNHAMPL1oOhvi8xvJlZLIvtfADSjdc3ehoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy12bg
 
 ## dns4.cc-cz-ipv4
 
