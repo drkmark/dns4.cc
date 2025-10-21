@@ -117,25 +117,37 @@ based in Ashburn, Virginia, hosted by GreenCloud, 1x vCPU AMD EPYC 7702, 2048MB 
 
 sdns://AQcAAAAAAAAAHVsyNjA3OjkwMDA6OTAwMDoxMGNiOjo4NV06NDQzIBW9VdrK_tK1j-P0QY-HQOQaeRCaIOlu-d7fJlLG--fpHTIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXVzLXZh
 
-## dns4.cc-jp-ipv4
+# ## dns4.cc-jp-ipv4
 
 # based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
 
 # sdns://AQcAAAAAAAAAEjQ1LjE0Mi4xNjYuMjA1OjQ0MyDjFfk7ebogCdsKskDL6PAmZC1j4Wc7WfYfFvwuynZ6CBoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1qcA
 
-## dns4.cc-jp-ipv6
+# ## dns4.cc-jp-ipv6
 
 # based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
 
 # sdns://AQcAAAAAAAAAHVsyNDAzOjcxYzA6MjAwMDphMTNiOjo2MF06NDQzIOMV-Tt5uiAJ2wqyQMvo8CZkLWPhZztZ9h8W_C7KdnoIGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWpw
 
-## dns4.cc-sg-ipv4
+## dns4.cc-ro-ipv4
+
+based in Bucharest, Romania, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN 
+
+sdns://AQcAAAAAAAAAEjE5My4xNDIuNTguMTM0OjQ0MyDxVLzxY7EHp4bofhmkjaql8-DXBCu8IEUwKgpScg6pDBoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1ybw
+
+## dns4.cc-ro-ipv6
+
+based in Bucharest, Romania, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
+
+DNS Stamp: sdns://AQcAAAAAAAAAHFsyYTA0OjlkYzA6MDo4ZDo6MjQ4OjEwXTo0NDMg8VS88WOxB6eG6H4ZpI2qpfPg1wQrvCBFMCoKUnIOqQwaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2Mtcm8
+
+# ## dns4.cc-sg-ipv4
 
 # based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN 
 
 # sdns://AQcAAAAAAAAAETUxLjc5LjE1Ny4xMzk6NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9CIrCtMjGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNn
 
-## dns4.cc-sg-ipv6
+# ## dns4.cc-sg-ipv6
 
 # based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN
 
