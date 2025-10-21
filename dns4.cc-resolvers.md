@@ -85,13 +85,13 @@ sdns://AQcAAAAAAAAAG1syNDAwOjZlYTA6MDoxMjIwOjoxMDddOjQ0MyANI6onBGJM2GNHAMPL1oOhv
 
 based in Prague, Czechia, hosted by forpsi, 1x vCPU Intel Core Processor (Broadwell, IBRS), 1024MB RAM, 1Gbps LAN
 
-sdns://AQcAAAAAAAAAETgwLjIxMS4yMDAuNjM6NDQzIAIFw4t3c84WbSjQJXMG7RihOc93lYm4kgye0yEf2YBgGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWN6
+sdns://AQcAAAAAAAAAETgwLjIxMS4yMDAuNjM6NDQzIGUF_xll1Zn_TUR-RLLWWgGGNX7PSslk4_v5h-9WeAM4GjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWN6
 
 ## dns4.cc-cz-ipv6
 
 based in Prague, Czechia, hosted by forpsi, 1x vCPU Intel Core Broadwell family, 1024MB RAM, 1Gbps LAN
 
-sdns://AQcAAAAAAAAAHFsyMDAxOjE1ZTg6MTEwOjdkMDA6OmJjXTo0NDMgAgXDi3dzzhZtKNAlcwbtGKE5z3eVibiSDJ7TIR_ZgGAaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtY3o
+sdns://AQcAAAAAAAAAHFsyMDAxOjE1ZTg6MTEwOjdkMDA6OmJjXTo0NDMgZQX_GWXVmf9NRH5EstZaAYY1fs9KyWTj-_mH71Z4AzgaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2MtY3o
 
 ## dns4.cc-hk-ipv4
 
@@ -119,24 +119,24 @@ sdns://AQcAAAAAAAAAHVsyNjA3OjkwMDA6OTAwMDoxMGNiOjo4NV06NDQzIBW9VdrK_tK1j-P0QY-HQ
 
 ## dns4.cc-jp-ipv4
 
-based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
+# based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAEjQ1LjE0Mi4xNjYuMjA1OjQ0MyDjFfk7ebogCdsKskDL6PAmZC1j4Wc7WfYfFvwuynZ6CBoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1qcA
+# sdns://AQcAAAAAAAAAEjQ1LjE0Mi4xNjYuMjA1OjQ0MyDjFfk7ebogCdsKskDL6PAmZC1j4Wc7WfYfFvwuynZ6CBoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1qcA
 
 ## dns4.cc-jp-ipv6
 
-based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
+# based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAHVsyNDAzOjcxYzA6MjAwMDphMTNiOjo2MF06NDQzIOMV-Tt5uiAJ2wqyQMvo8CZkLWPhZztZ9h8W_C7KdnoIGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWpw
+# sdns://AQcAAAAAAAAAHVsyNDAzOjcxYzA6MjAwMDphMTNiOjo2MF06NDQzIOMV-Tt5uiAJ2wqyQMvo8CZkLWPhZztZ9h8W_C7KdnoIGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWpw
 
 ## dns4.cc-sg-ipv4
 
-based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN 
+# based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN 
 
-sdns://AQcAAAAAAAAAETUxLjc5LjE1Ny4xMzk6NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9CIrCtMjGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNn
+# sdns://AQcAAAAAAAAAETUxLjc5LjE1Ny4xMzk6NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9CIrCtMjGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNn
 
 ## dns4.cc-sg-ipv6
 
-based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN
+# based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAHVsyNDAyOjFmMDA6ODAwMDo4MDA6OmMwMV06NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9CIrCtMjGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNn
+# sdns://AQcAAAAAAAAAHVsyNDAyOjFmMDA6ODAwMDo4MDA6OmMwMV06NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9CIrCtMjGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNn
