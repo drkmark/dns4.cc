@@ -139,7 +139,7 @@ sdns://AQcAAAAAAAAAEjE5My4xNDIuNTguMTM0OjQ0MyDxVLzxY7EHp4bofhmkjaql8-DXBCu8IEUwK
 
 based in Bucharest, Romania, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
-DNS Stamp: sdns://AQcAAAAAAAAAHFsyYTA0OjlkYzA6MDo4ZDo6MjQ4OjEwXTo0NDMg8VS88WOxB6eG6H4ZpI2qpfPg1wQrvCBFMCoKUnIOqQwaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2Mtcm8
+sdns://AQcAAAAAAAAAHFsyYTA0OjlkYzA6MDo4ZDo6MjQ4OjEwXTo0NDMg8VS88WOxB6eG6H4ZpI2qpfPg1wQrvCBFMCoKUnIOqQwaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2Mtcm8
 
 # ## dns4.cc-sg-ipv4
 
