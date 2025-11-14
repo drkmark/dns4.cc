@@ -133,13 +133,13 @@ sdns://AQcAAAAAAAAAHVsyNjA3OjkwMDA6OTAwMDoxMGNiOjo4NV06NDQzIBW9VdrK_tK1j-P0QY-HQ
 
 based in Bucharest, Romania, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN 
 
-sdns://AQcAAAAAAAAAEjE5My4xNDIuNTguMTM0OjQ0MyDxVLzxY7EHp4bofhmkjaql8-DXBCu8IEUwKgpScg6pDBoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1ybw
+sdns://AQcAAAAAAAAAEjE5My4xNDIuNTguMTM0OjQ0MyC8P4yAvfVqF28rQQ8PUUyJLJ5GRQtXfyTPhWRj7gcwwxoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1ybw
 
 ## dns4.cc-ro-ipv6
 
 based in Bucharest, Romania, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2698 v4, 2048MB RAM, 10Gbps LAN
 
-sdns://AQcAAAAAAAAAHFsyYTA0OjlkYzA6MDo4ZDo6MjQ4OjEwXTo0NDMg8VS88WOxB6eG6H4ZpI2qpfPg1wQrvCBFMCoKUnIOqQwaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2Mtcm8
+sdns://AQcAAAAAAAAAHFsyYTA0OjlkYzA6MDo4ZDo6MjQ4OjEwXTo0NDMgvD-MgL31ahdvK0EPD1FMiSyeRkULV38kz4VkY-4HMMMaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2Mtcm8
 
 # ## dns4.cc-sg-ipv4
 
