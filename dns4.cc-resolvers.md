@@ -141,14 +141,14 @@ based in Bucharest, Romania, hosted by GreenCloud, 1x vCPU Intel Xeon E5-2698 v4
 
 sdns://AQcAAAAAAAAAHFsyYTA0OjlkYzA6MDo4ZDo6MjQ4OjEwXTo0NDMgvD-MgL31ahdvK0EPD1FMiSyeRkULV38kz4VkY-4HMMMaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2Mtcm8
 
-# ## dns4.cc-sg-ipv4
+## dns4.cc-sg-ipv4
 
-# based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN 
+based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN 
 
-# sdns://AQcAAAAAAAAAETUxLjc5LjE1Ny4xMzk6NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9CIrCtMjGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNn
+sdns://AQcAAAAAAAAAEzE2Ny4yNTMuMTU5LjIwNTo0NDMgzIxdRulusSw3haogfmcfZp4KbybIsrY98P6_DixxU9AaMi5kbnNjcnlwdC1jZXJ0LmRuczQuY2Mtc2c
 
-# ## dns4.cc-sg-ipv6
+## dns4.cc-sg-ipv6
 
-# based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN
+based in Singapore, Malaysia, hosted by OVH, 1x vCPU Intel Core (Haswell A0), 22nm, 2048MB RAM, 10Gbps LAN
 
-# sdns://AQcAAAAAAAAAHVsyNDAyOjFmMDA6ODAwMDo4MDA6OmMwMV06NDQzIIRThjKgqx1I_ryzSnR6kWFwvpGKIUsfpV5s9CIrCtMjGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXNn
+sdns://AQcAAAAAAAAAG1syYTExOjgwODM6MTE6MTEwNjo6NzldOjQ0MyDMjF1G6W6xLDeFqiB-Zx9mngpvJsiytj3w_r8OLHFT0BoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1zZw

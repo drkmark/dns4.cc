@@ -84,13 +84,13 @@ sdns://gR1bMjYwNzo5MDAwOjkwMDA6MTBjYjo6ODVdOjQ0Mw
 
 # sdns://gR1bMjQwMzo3MWMwOjIwMDA6YTEzYjo6NjBdOjQ0Mw
 
-# ## anon-dns4.cc-sg-ipv4
+## anon-dns4.cc-sg-ipv4
 
-# sdns://gRE1MS43OS4xNTcuMTM5OjQ0Mw
+sdns://gRMxNjcuMjUzLjE1OS4yMDU6NDQz
 
-# ## anon-dns4.cc-sg-ipv6
+## anon-dns4.cc-sg-ipv6
 
-# sdns://gR1bMjQwMjoxZjAwOjgwMDA6ODAwOjpjMDFdOjQ0Mw
+sdns://gRtbMmExMTo4MDgzOjExOjExMDY6Ojc5XTo0NDM
 
 ## anon-dns4.cc-ro-ipv4
 
