@@ -1,6 +1,12 @@
 # dns4.cc
 *hi there, crew operates a free, independent "network" of 21 DNSCrypt servers spread across the globe to keep your surfing safe and secure.*
 
+for more info about us and our projects see our webpage - [https://dns4.cc](https://dns4.cc)
+
+<p align="center">
+    <b>*** this github page is not updated anymore, except new commits! for detailed info about our DNS nodes see our webpage! ***</b>
+</p>
+
 Welcome and enjoy the world where we take care about Your digital footprint and data anonymity as much as You're allowing us by Your online habbits. At the end of a day it's **ONLY up to You** what's revealed/shared and go out of Your control. It's **ONLY Your decision**, thanks to our technology, countless experience and knowledge. It's all **ONLY up to You** with dns4.cc DNS servers.
 
 <p align="center">
