@@ -3,9 +3,13 @@
 
 for more info about us and our projects see our webpage - [https://dns4.cc](https://dns4.cc)
 
+*****************************
+
 <p align="center">
     <b>THIS GITHUB PAGE IS NOT UPDATED ANYMORE, EXCEPT NEW COMMITS! FOR DETAILED INFO ABOUT OUR DNS NODES SEE OUR WEBPAGE!</b>
 </p>
+*****************************
+
 
 Welcome and enjoy the world where we take care about Your digital footprint and data anonymity as much as You're allowing us by Your online habbits. At the end of a day it's **ONLY up to You** what's revealed/shared and go out of Your control. It's **ONLY Your decision**, thanks to our technology, countless experience and knowledge. It's all **ONLY up to You** with dns4.cc DNS servers.
 
