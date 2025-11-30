@@ -117,17 +117,17 @@ based in Ashburn, Virginia, hosted by GreenCloud, 1x vCPU AMD EPYC 7702, 2048MB 
 
 sdns://AQcAAAAAAAAAHVsyNjA3OjkwMDA6OTAwMDoxMGNiOjo4NV06NDQzIBW9VdrK_tK1j-P0QY-HQOQaeRCaIOlu-d7fJlLG--fpHTIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLXVzLXZh
 
-# ## dns4.cc-jp-ipv4
+## dns4.cc-jp-ipv4
 
-# based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
+based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
 
-# sdns://AQcAAAAAAAAAEjQ1LjE0Mi4xNjYuMjA1OjQ0MyDjFfk7ebogCdsKskDL6PAmZC1j4Wc7WfYfFvwuynZ6CBoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1qcA
+sdns://AQcAAAAAAAAAEjQ1LjE0Mi4xNjYuMjA1OjQ0MyD0SOsCwzgK7WiKsCMSrgAwuiq03zE9-rp9HW07oXkfMRoyLmRuc2NyeXB0LWNlcnQuZG5zNC5jYy1qcA
 
-# ## dns4.cc-jp-ipv6
+## dns4.cc-jp-ipv6
 
-# based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
+based in Tokyo, Japan, hosted by GreenCloud, 2x vCPU Intel Xeon E5-2698v4, 3096MB RAM, 10Gbps LAN
 
-# sdns://AQcAAAAAAAAAHVsyNDAzOjcxYzA6MjAwMDphMTNiOjo2MF06NDQzIOMV-Tt5uiAJ2wqyQMvo8CZkLWPhZztZ9h8W_C7KdnoIGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWpw
+sdns://AQcAAAAAAAAAHVsyNDAzOjcxYzA6MjAwMDphMTNiOjo2MF06NDQzIPRI6wLDOArtaIqwIxKuADC6KrTfMT36un0dbTuheR8xGjIuZG5zY3J5cHQtY2VydC5kbnM0LmNjLWpw
 
 ## dns4.cc-ro-ipv4
 
