@@ -143,7 +143,7 @@ DNS servers locations as of December 2024:
  - Dallas, TX 
  - Ashburn, VA
 
-### Europe
+### Europe 🇪🇺
  - Coventry, UK 🇬🇧
  - Frankfurt Am Main, Germany 🇩🇪
  - Budweis, Czechia 🇨🇿
